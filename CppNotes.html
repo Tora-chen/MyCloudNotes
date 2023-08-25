@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>4&period; &#x91cd;&#x8f7d;</title>
+    <meta name="viewport"
+        content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no">
+    <style>
+        /* From extension vscode.github */
+        /*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+        .vscode-dark img[src$=\#gh-light-mode-only],
+        .vscode-light img[src$=\#gh-dark-mode-only] {
+            display: none;
+        }
+    </style>
+
+    <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
+    <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
+            font-size: 14px;
+            line-height: 1.6;
+        }
+    </style>
+    <style>
+        .task-list-item {
+            list-style-type: none;
+        }
+
+        .task-list-item-checkbox {
+            margin-left: -20px;
+            vertical-align: middle;
+            pointer-events: none;
+        }
+    </style>
+
+</head>
+
+<body class="vscode-body vscode-light">
+    <h2>2.1</h2>
+    <p>抽象的作用是表示一类事物的本质。</p>
+    <p>类是对象的抽象，而对象则是类的特例，或者说是类的具体表现</p>
+    <br>
+    <p>多态性是指：由继承而产生的相关的不同的类，其对象对同一消息会作出不同的响应。</p>
+    <br>
+    <p>面向过程：</p>
+    <p>　　程序 = 算法 + 数据结构</p>
+    <p>面向对象：</p>
+    <p>　　对象 = 算法 + 数据结构</p>
+    <p>　　程序 = 对象s + 消息</p>
+    <br>
+    <p>消息的作用就是对对象的控制。</p>
+    <br>
+    <p>类的公用接口与私有实现的分离形成了信息隐蔽。</p>
+    <p>如"stud.display()"就是一个发给对象的消息。</p>
+    <p>参数初始化表：</p>
+    <pre><code class="language-cpp"><span class="hljs-built_in">Box</span> (<span class="hljs-type">int</span> h, <span class="hljs-type">int</span> w, <span class="hljs-type">int</span> len) : <span class="hljs-built_in">height</span>(h), <span class="hljs-built_in">width</span>(w), <span class="hljs-built_in">length</span>(len) { }
+</code></pre>
+    <p>如果数据成员是数组，则应当在构造函数的函数体中用语句对其赋值，而不是在参数初始化表中对其初始化。如</p>
+    <pre><code class="language-cpp"><span class="hljs-built_in">Student</span>(<span class="hljs-type">int</span> n, <span class="hljs-type">char</span> s, nam[]):<span class="hljs-built_in">num</span>(n), <span class="hljs-built_in">sex</span>(s) { <span class="hljs-built_in">strcpy</span>(name, nam); }
+</code></pre>
+    <br>
+    <p>默认构造函数是可以无实参调用的构造函数。</p>
+    <p>默认参数可以省略形参名，如</p>
+    <pre><code class="language-cpp"><span class="hljs-built_in">Box</span> (<span class="hljs-type">int</span> = <span class="hljs-number">10</span>, <span class="hljs-type">int</span> = <span class="hljs-number">10</span>, <span class="hljs-type">int</span> = <span class="hljs-number">10</span>);
+</code></pre>
+    <br>
+    <p>静态数据成员(static)只占一份空间，在编译期分配内存。可以在类外初始化，如</p>
+    <pre><code class="language-cpp"><span class="hljs-type">int</span> Box::height = <span class="hljs-number">10</span>;
+</code></pre>
+    <p>但不能用参数初始化表对静态成员初始化。</p>
+    <p>静态数据成员如果是公开的，可以直接通过类名引用。</p>
+    <br>
+    <p>成员函数也可以定义为静态的，如</p>
+    <pre><code class="language-cpp"><span class="hljs-function"><span class="hljs-type">static</span> <span class="hljs-type">int</span> <span class="hljs-title">volume</span><span class="hljs-params">()</span></span>;
+</code></pre>
+    <p>静态成员函数不能访问本类中的非静态成员。</p>
+    <h2 id="4-重载">4. 重载</h2>
+    <p>不能重载的运算符有5个: </p>
+    <p>. * :: sizeof ?:</p>
+    <p>重载不能改变运算符运算对象的个数，也不能有默认的参数。</p>
+    <p>重载的运算符必须和用户自定义类型的对象一起使用。</p>
+    <p>示例：</p>
+    <p>Complex operator + (Complex c1, Complex c2) { </p>
+    <p> return (Complex)(c1.real+c2.real, c1.imag + c2.imag) }</p>
+    <p>也可以在Complex类内重载：</p>
+    <p>Complex operator + (Complex c2) { </p>
+    <p> return (Complex)(c.real+c2.real, c.imag + c2.imag) }</p>
+    <p>赋值运算符=、下标运算符[]、函数调用运算符()、成员运算符->必须作为成员函数。</p>
+    <p>流插入和流提取运算符、类型转换运算符不能定义为成员函数。</p>
+    <p>在Cpp中，以下两种类型转换方式都可以使用：</p>
+    <pre><code class="language-cpp"><span class="hljs-built_in">int</span>(<span class="hljs-number">9.9</span>);
+(<span class="hljs-type">int</span>)<span class="hljs-number">9.9</span>;
+</code></pre>
+    <p>前一种写法是“类型转换函数”，可以进行重载。</p>
+    <h2 id="5-继承与派生">5. 继承与派生</h2>
+    <p>声明派生类的一般形式为：</p>
+    <pre><code class="language-cpp"><span class="hljs-keyword">class</span> 派生类名:继承方式 基类名
+{
+    派生类成员声明
+};
+</code></pre>
+    <p>继承方式有三种：public、protected、private。</p>
+    <p>不论采取何种方式，都无法访问基类的private成员。采用public方式时，成员访问属性不变，采用private方式时，基类成员在派生类中变为private成员，采用protected方式时，基类成员在派生类中变为protected成员。
+    </p>
+
+
+
+</body>
+
+</html>

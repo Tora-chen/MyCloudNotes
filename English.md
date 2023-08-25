@@ -1,0 +1,160 @@
+wreck /rek/ vt.破坏 n.残骸  
+magnitude 震级  
+flood v.淹没 n.洪水，水灾  
+drought n. 干旱，旱灾  
+eruption n.喷发（物）  
+volcanic eruption 火山喷发  
+disastrous a.灾难性的  
+tornado 龙卷风  
+Tornado Decimates Trailer Park 龙卷风摧毁停车场  
+casualty n.伤亡  
+collapse n.倒塌；崩溃  
+He felt he would never tire of listening to her stories.  
+prescription 药方  
+oral contraceptive 口服避孕药  
+contraceptive 避孕药  
+tablet 药片;手写板  
+grocery 食品杂货店  
+convenience 方便，便利  
+abortion 流产  
+reprodutive 生殖的，繁殖的  
+threat n.威胁  
+After post-Roe abortion bans 在因"罗文韦德诉韦德案"实施的堕胎禁令出台后。  
+primarily 首要的  
+barrier 障碍，障碍物  
+Opill, known generically as norgestrel, will be available without a doctor’s prescription for buyers of all
+ages. That will primarily benefit teenagers and the 45% of women who face at least one barrier to reproductive
+healthcare services in the US as of 2021, according to a study published in JAMA Network Open.  
+Opill，通常以诺酮酯（norgestrel）的通用名称出现，将无需医生处方，供所有年龄段的购买者使用。根据《美国医学会杂志网络开放》（JAMA Network
+Open）上发表的一项研究，这将主要使得青少年和截至2021年在美国面临至少一项生殖保健服务障碍的45%妇女受益。  
+on-demand 按需  
+rely 依赖  
+reliable 可信赖的  
+redundancy 冗余  
+show up 展示  
+bank on 指望  
+Everyone is banking on an economic rebound to help ease the state's fiscal problems.  
+streamline 使组织化  
+operation 运营  
+disruption 中断  
+revenue 收入(对：expanse)  
+diminish 削减  
+diminish customer trust  
+reputational 名誉上的  
+mitigate 减轻  
+essential 必要的  
+effectively 有效地  
+insight 洞察力  
+expert 专家  
+regard 考虑  
+accountability 责任心  
+constitude 构成  
+aside 旁边  
+condition 条件，状况  
+propose 提议  
+feed 饲养，供给  
+developmental psychologic 发展心理学  
+ignorance 愚昧，无知  
+nor 也不是  
+sink 下沉  
+sociology 社会学  
+fulfil 实现  
+the needs that the family fulfills  
+vary 差异，不同  
+society 社会  
+especially 特别地  
+subordinate 下属的  
+consist 组成  
+widow 寡妇  
+prevalent 盛行  
+several 几个  
+hunt 打猎，搜寻  
+gather 群居  
+bond 絆。金。  
+kinship 亲属关系  
+disperse 驱散  
+separate 单独的，分开的  
+separate bedroom 独立卧室  
+scarce 缺乏的  
+primarily 首要的  
+tend 趋于;照顾  
+infirm 年老体弱的人  
+firm 强壮的  
+childbearing 分娩  
+advent 出现，到来；将领  
+Christianity 基督教  
+central concern 核心关注  
+religious 宗教的  
+the Reformation 宗教改革  
+formation 组成  
+civil 国民的  
+recognize 辨认出；承认，意识到  
+civil matter 民事问题  
+indicate 表明，象征  
+urbanization 城市化  
+industrialization 工业化  
+Historical studies have indicated that
+family structures has been less changed by urbanization and industrialization
+than was once supposed  
+历史研究表明，城市化和工业化对家庭结构的影响比人们曾经认为的要小  
+prevalent 盛行的  
+pre-industrial 前工业化  
+differ from 与...不同  
+perform 执行  
+institution 机构，团体  
+occupation 职业，领域  
+recreation 娱乐  
+capacity 能力  
+peer 同龄人  
+mass media 大众媒体  
+assume a role 发挥作用  
+consequently 因此  
+separating 分离的  
+decline 下降，减少  
+___
+deliver 推送  
+straight 直的  
+cover v. 覆盖；报导  
+cybersecurity 网络安全  
+thrice 三次，三倍  
+hesitate 犹豫  
+reach out 主动联系  
+conclude v. 结束  
+The World Cup will conclude tomorrow.  
+tournament 锦标赛  
+authentication 身份验证  
+chain 链条；连锁  
+supermarket chain 连锁超市  
+earn 收入  
+outpace 超过  
+average adj. n. v.
+appitite 欲望  
+delicacy 美味佳肴  
+come by 获取，得到  
+durian 榴莲  
+bamboo shoots 竹笋  
+premium 高端的，优质的  
+ingredient 成分，原料  
+effort 努力  
+make efforts to 努力...  
+尽管如此：even so  
+___
+ethnic /'eθnic/ 民族的，种族的  
+minority 少数民族的  
+dim 黯淡的  
+put off 劝退  
+interior 内部  
+dim interiors put off customers used to the bright lights  
+narrow 狭窄的  
+ingredient 原料  
+leave shoppers puzzled  
+catch on 流行起来  
+subburb 郊区  
+divorce 离婚  
+diverse 各种各样的  
+nicety 细节  
+weird 奇怪的  
+purchase 采购  
+
+
+

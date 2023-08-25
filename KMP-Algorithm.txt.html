@@ -1,0 +1,33 @@
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+KMP Algorithm for Pattern Seaching<br>Pattern: 模式<br>Given a text txt[0...N-1] and a pattern pat[0...M-1], write a
+function search(char pat[], char txt[]) that prints all<br>occurrences of pat[] in txt[].You may assume that
+N&gt;M.<br>Occurrence: 出现<br>Assume: 假定<br><br>Examples:<br>Input: txt[] = &quot;THIS IS A TEST TEXT&quot;, pat[] =
+&quot;TEST&quot;<br>Output: Pattern found at index 10<br>Input: txt[] = &quot;AABAACAADAABAABA&quot;<br>pat[] =
+&quot;AABA&quot;<br>Output: Pattern found at index 0, Pattern found at index 9, Pattern found at index 12<br><br>Pattern
+searching is an important problem in computer science. When we do search for a string in a notepad/word file
+or<br>browser or database, pattern-searching algorithms are used to show the search results.<br><br>We have discussed
+the Naive pattern-searching algorithm in the previous post. The worst case complexity of the Naive<br>algorithm is
+O(m(n-m+1)). The time complexity of the KMP algorithm is O(n+m) in the worst case.<br>Discuss: 讨论<br>Naive:
+朴素，原始<br>Post: 帖子<br><br>KMP Pattern Searching:<br>The Naive pattern-searching algorithm doesn&#x27;t work well in cases
+where we see many matching characters followed by a<br>mismatching character.<br>Match:
+比得上…；满足…。<br>Mismatch：错配。<br><br>Examples:<br>1) txt[] = &quot;AAAAAAAAAB&quot;, pat[] = &quot;AAAB&quot;<br>2) txt[] =
+&quot;ABABABABABCABABABABC&quot;, pat[] = &quot;ABABC&quot;(not a worst case, but a bad case for Naive)<br><br>The KMP
+matching algorithm uses degenerating property (pattern having the same sub-patterns appearing more than once in<br>the
+pattern) of the pattern and improves the worst-case complexity to O(n+m).<br>Degenerating: 退化。<br>Generating:
+引起。<br>Property: 特性。<br><br>The basic idea behind KMP&#x27;s algorithm is: whenever we detect a mismatch (after some
+matches), we already know some of<br>the characters in the text of the next window. We take advantage of this
+information to avoid matching the characters<br>that we know will anyway match.<br>Whenever: 每当。<br>Detect:
+识别。<br>Advantage: 有利的。<br><br>Matching Overview<br><br>txt = &quot;AAAAABAABA&quot;<br>pat = &quot;AAAA&quot;<br>We
+compare first window of txt with pat<br><br>txt = &quot;AAAAABAAABA&quot;<br>pat = &quot;AAAA&quot; [Initial
+position]<br>We find a match. This is same as Naive String Matching.<br><br>In the next step, we compare next window of
+txt with pat.<br><br>txt = &quot;AAAAABAAABA&quot;<br>pat = &quot;AAAA&quot; [Pattern shifted one position]<br>// Shift:
+移动。<br><br>This is where KMP does optimization over Naive. In this second window, we only compare fourth A of pattern
+with fourth<br>character of current window of text to decide whether current window matches or not. Since we know first
+three<br>characters will anyway match, we skipped matching first three characters.<br>Optimization: 优化。<br>Current:
+当前的。<br><br>Need of Preprocessing?<br>An important question arises from the above explanation, how to know how many
+characters to be skipped. To know this, we<br>pre-process pattern and prepare an integer array lps[] that tells us the
+count of characters to be skipped.<br>Arise: 产生。<br>Explanation: 解释。<br><br>Preprocessing Overview:<br>• KMP algorithm
+preprocesses pat[] and constructs an auxiliary lps[] of size m (same as the size of the pattern) which<br>is used to
+skip characters while matching.<br>• Name lps indicates the longest proper prefix which is also a suffix. A proper
+prefix is a prefix with a whole string<br>not allowed.<br>Auxiliary: 辅助的。
