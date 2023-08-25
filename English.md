@@ -155,6 +155,18 @@ diverse 各种各样的
 nicety 细节  
 weird 奇怪的  
 purchase 采购  
-
+___
+subtract 减去(add的反义词)  
+extraordinarily 出乎意料地  
+finance 资金，财政 
+financial 财政的   
+damanding 高要求的  
+compulsory 强制的  
+curriculum 课程  
+Make financial education a compulsory element of the school curriculum in England.  
+pension 养老金  
+parenting website 育儿网站  
+omission 忽略  
+confusing 令人困惑的  
 
 
