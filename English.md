@@ -1,3 +1,4 @@
+<!-- title: English -->
 wreck /rek/ vt.破坏 n.残骸  
 magnitude 震级  
 flood v.淹没 n.洪水，水灾  
@@ -116,7 +117,6 @@ deliver 推送
 straight 直的  
 cover v. 覆盖；报导  
 cybersecurity 网络安全  
-thrice 三次，三倍  
 hesitate 犹豫  
 reach out 主动联系  
 conclude v. 结束  
