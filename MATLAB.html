@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <title>&#x4e8c;&#x7ef4;&#x56fe;&#x548c;&#x4e09;&#x7ef4;&#x56fe;</title>
+        <style>
+/* From extension vscode.github */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+.vscode-dark img[src$=\#gh-light-mode-only],
+.vscode-light img[src$=\#gh-dark-mode-only] {
+	display: none;
+}
+
+</style>
+        
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+<style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
+                font-size: 14px;
+                line-height: 1.6;
+            }
+        </style>
+        <style>
+.task-list-item {
+    list-style-type: none;
+}
+
+.task-list-item-checkbox {
+    margin-left: -20px;
+    vertical-align: middle;
+    pointer-events: none;
+}
+</style>
+        
+    </head>
+    <body class="vscode-body vscode-light">
+        <h2 id="二维图和三维图">二维图和三维图</h2>
+<h4 id="线图">线图</h4>
+<p>plot函数可以创建二维线图。</p>
+<pre><code class="language-matlab">x = <span class="hljs-built_in">linspace</span>(<span class="hljs-number">0</span>,<span class="hljs-number">2</span>*<span class="hljs-built_in">pi</span>);
+y = <span class="hljs-built_in">sin</span>(x);
+<span class="hljs-built_in">plot</span>(x,y)
+</code></pre>
+<p>以下指令标记轴并添加标题。</p>
+<pre><code class="language-matlab">xlabel(<span class="hljs-string">&quot;x&quot;</span>)
+ylabel(<span class="hljs-string">&quot;sin(x)&quot;</span>)
+title(<span class="hljs-string">&quot;Plot of the Sine Function&quot;</span>)
+</code></pre>
+<p>plot 函数的第三个输入参数指定线条类型。</p>
+<pre><code class="language-matlab"><span class="hljs-built_in">plot</span>(x, y, <span class="hljs-string">&quot;r--&quot;</span>) <span class="hljs-comment">% 红色虚线</span>
+<span class="hljs-built_in">plot</span>(x, y, <span class="hljs-string">&quot;r-&quot;</span>) <span class="hljs-comment">% 红色实线</span>
+<span class="hljs-built_in">plot</span>(x, y, <span class="hljs-string">&quot;b:&quot;</span>) <span class="hljs-comment">% 蓝色点线</span>
+</code></pre>
+<p>默认情况下，每次绘图MATLAB都会清空图窗。使用hold on保留图窗。在使用 hold off 或关闭窗口之前，当前图窗窗口中会显示所有绘图。</p>
+<p>这样可以显示一个三维曲面图：</p>
+<pre><code class="language-matlab">syms x y
+f = x^<span class="hljs-number">2</span> + y^<span class="hljs-number">2</span>;
+fsurf(f, [<span class="hljs-number">-1</span>, <span class="hljs-number">1</span>, <span class="hljs-number">-1</span>, <span class="hljs-number">1</span>]);
+</code></pre>
+<p>使用 tiledlayout 或 subplot 在同一窗口的不同部分显示多个绘图。</p>
+<pre><code class="language-matlab">t = tiledlayout(<span class="hljs-number">2</span>,<span class="hljs-number">2</span>);
+title(t,<span class="hljs-string">&quot;Trigonometric Functions&quot;</span>)
+x = <span class="hljs-built_in">linspace</span>(<span class="hljs-number">0</span>,<span class="hljs-number">30</span>);
+
+nexttile
+<span class="hljs-built_in">plot</span>(x,<span class="hljs-built_in">sin</span>(x))
+title(<span class="hljs-string">&quot;Sine&quot;</span>)
+
+nexttile
+<span class="hljs-built_in">plot</span>(x,<span class="hljs-built_in">cos</span>(x))
+title(<span class="hljs-string">&quot;Cosine&quot;</span>)
+
+nexttile
+<span class="hljs-built_in">plot</span>(x,<span class="hljs-built_in">tan</span>(x))
+title(<span class="hljs-string">&quot;Tangent&quot;</span>)
+
+nexttile
+<span class="hljs-built_in">plot</span>(x,<span class="hljs-built_in">sec</span>(x))
+title(<span class="hljs-string">&quot;Secant&quot;</span>)
+</code></pre>
+
+        
+        
+    </body>
+    </html>
