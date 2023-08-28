@@ -57,3 +57,55 @@ nexttile
 plot(x,sec(x))
 title("Secant")
 ```
+
+### 结构化编程
+if-else结构示例：
+```matlab
+a = 10;
+if a == 1
+    disp('a == 1');
+elseif a == 2
+    disp("a == 2");
+else 
+    disp("a == 10");
+end
+```
+switch-case示例:
+```matlab
+a = 10;
+switch a
+    case 1
+        disp('a == 1');
+    case 2
+        disp("a == 2");
+    otherwise
+        disp("a == 10");
+end
+```
+
+for循环示例：
+```matlab
+sum = 0;
+for i=1:2:999
+    disp(i);
+    sum = sum + i;
+end
+disp(sum);
+```
+
+预分配：
+```matlab
+A = [0 -1 4; ...
+     9 -14 25; ... % 用...表示换行
+     -34 49 64];
+B = zeros(3, 3);
+for i = 1:size(A,1)
+    for j = 1:size(A,2)
+        B(i, j) = A(i, j);
+    end
+end
+disp(B);
+```
+disp(B)
+MATLAB中 ~= 表示不等于。
+
