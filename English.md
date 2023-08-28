@@ -115,8 +115,6 @@ decline 下降，减少
 ___
 deliver 推送  
 straight 直的  
-cover v. 覆盖；报导  
-cybersecurity 网络安全  
 hesitate 犹豫  
 reach out 主动联系  
 conclude v. 结束  
