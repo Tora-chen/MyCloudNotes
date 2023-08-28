@@ -168,5 +168,25 @@ pension 养老金
 parenting website 育儿网站  
 omission 忽略  
 confusing 令人困惑的  
-
-
+___
+as fast-changing as our own  
+像我们自身一样快速变化  
+yet 然而  
+evidence 证据  
+suggest 表明  
+Yet evidence suggets 然而证据表明  
+technique 技巧  
+effective 有效的  
+Worse: adj. & adv.  
+strategies 策略  
+employ 使用  
+literature 文献
+among 在...之中  
+evaluate 评估  
+stretches back 追溯  
+decade 十年  
+extensive 广泛的
+It's far too extensive and complex for the ... to survey.  
+survey 调查  
+comprehensive 综合性的  
+conclusion 结论  
