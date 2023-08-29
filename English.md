@@ -188,3 +188,25 @@ It's far too extensive and complex for the ... to survey.
 survey 调查  
 comprehensive 综合性的  
 conclusion 结论  
+pre-requisite 先决条件  
+intrigued 好奇的  
+notion 概念  
+dire 急需  
+in dire need of  
+panic 恐慌  
+lauded 赞扬  
+grunt 干重体力活工资低的工人  
+untrustworthy 不可信赖的  
+paycheck 工资  
+thieves 偷窃者  
+consummate 完美的  
+classification 分类  
+describe 描述  
+attitude 姿态，个人风格  
+discipline 纪律  
+consider 考虑，认为  
+essentially 本质上  
+phrase 短语  
+intentionally 有意地  
+blank 空白的  
+manual 手册  
