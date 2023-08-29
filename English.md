@@ -183,7 +183,7 @@ among 在...之中
 evaluate 评估  
 stretches back 追溯  
 decade 十年  
-extensive 广泛的
+extensive 广泛的  
 It's far too extensive and complex for the ... to survey.  
 survey 调查  
 comprehensive 综合性的  
@@ -210,3 +210,23 @@ phrase 短语
 intentionally 有意地  
 blank 空白的  
 manual 手册  
+shelf 架子  
+stack 堆  
+punch 打孔  
+deck 牌组  
+stripe n. & v. (加上)条纹  
+subroutine 子程序  
+typically 通常  
+represent 代表  
+sequence 序列  
+increment 增量  
+decrement 减量  
+puncher 打孔机  
+rubber 橡胶  
+band 带子  
+wrap 包裹  
+operator 操作员  
+supervisor 指导教师  
+terminate 终止  
+apparently 显然  
+nurture 培养  
