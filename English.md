@@ -1,23 +1,15 @@
 <!-- title: English -->
-wreck /rek/ vt.破坏 n.残骸  
-magnitude 震级  
-flood v.淹没 n.洪水，水灾  
-drought n. 干旱，旱灾  
-eruption n.喷发（物）  
-volcanic eruption 火山喷发  
 disastrous a.灾难性的  
 tornado 龙卷风  
 Tornado Decimates Trailer Park 龙卷风摧毁停车场  
 casualty n.伤亡  
 collapse n.倒塌；崩溃  
 He felt he would never tire of listening to her stories.  
-prescription 药方  
 oral contraceptive 口服避孕药  
 contraceptive 避孕药  
 tablet 药片;手写板  
 grocery 食品杂货店  
 convenience 方便，便利  
-abortion 流产  
 reprodutive 生殖的，繁殖的  
 threat n.威胁  
 After post-Roe abortion bans 在因"罗文韦德诉韦德案"实施的堕胎禁令出台后。  
@@ -36,7 +28,6 @@ show up 展示
 bank on 指望  
 Everyone is banking on an economic rebound to help ease the state's fiscal problems.  
 streamline 使组织化  
-operation 运营  
 disruption 中断  
 revenue 收入(对：expanse)  
 diminish 削减  
@@ -63,7 +54,6 @@ fulfil 实现
 the needs that the family fulfills  
 vary 差异，不同  
 society 社会  
-especially 特别地  
 subordinate 下属的  
 consist 组成  
 widow 寡妇  
@@ -78,7 +68,6 @@ separate 单独的，分开的
 separate bedroom 独立卧室  
 scarce 缺乏的  
 primarily 首要的  
-tend 趋于;照顾  
 infirm 年老体弱的人  
 firm 强壮的  
 childbearing 分娩  
@@ -107,7 +96,6 @@ occupation 职业，领域
 recreation 娱乐  
 capacity 能力  
 peer 同龄人  
-mass media 大众媒体  
 assume a role 发挥作用  
 consequently 因此  
 separating 分离的  
