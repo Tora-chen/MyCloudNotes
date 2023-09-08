@@ -87,3 +87,59 @@ class 派生类名:继承方式 基类名
 
 不论采取何种方式，都无法访问基类的private成员。采用public方式时，成员访问属性不变，采用private方式时，基类成员在派生类中变为private成员，采用protected方式时，基类成员在派生类中变为protected成员。
 
+派生类构造函数声明：
+```cpp
+Student1(int n, string nam, char s, int a, string ad):Student(n, nam, s){
+    age = a;
+    addr = ad;
+}
+```
+或：
+```cpp
+Student1(int n, string nam, char s, int a, string ad):Student(n, nam, s), age(a), addr(ad){}
+```
+
+声明多重继承的方法
+```cpp
+class D: public A, private B, protected C
+```
+
+多重继承派生类的构造函数:
+```cpp
+Graduate(string name, int a, char s, string t, float sco, float w): Teacher(nam, a, t), Student(nam, s, sco), wage(w) {}
+```
+
+虚基类方法：
+```cpp
+class A {
+    ...
+};
+class B: virtual public A { // A是B的虚基类
+    ...
+};
+class C: virtual public A {
+    ...
+};
+```
+
+虚基类的初始化由派生类完成。
+
+## 6. 多态性与虚函数
+多态性分为静态多态性和动态多态性。静态多态性是通过重载实现的，而动态多态性是通过虚函数实现的。
+
+虚函数的声明形式为：
+```cpp
+virtual 函数类型 函数名(形参表);
+```
+
+纯虚函数的声明形式为：
+```cpp
+virtual 函数类型 函数名(形参表) = 0;
+```
+
+## 7. 输入输出
+setiosflags(n): 设置小数为n位。
+例：
+```cpp
+cout << setiosflags(ios::fixed) << setprecision(2) << 123.456 << endl;
+```

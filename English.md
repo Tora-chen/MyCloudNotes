@@ -156,11 +156,8 @@ omission 忽略
 confusing 令人困惑的  
 ___
 as fast-changing as our own  
-像我们自身一样快速变化  
-yet 然而  
-evidence 证据  
-suggest 表明  
-Yet evidence suggets 然而证据表明  
+像我们自身一样快速变化   
+Yet evidence suggests 然而证据表明  
 technique 技巧  
 effective 有效的  
 Worse: adj. & adv.  
