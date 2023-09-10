@@ -10,7 +10,7 @@ contraceptive 避孕药
 tablet 药片;手写板  
 grocery 食品杂货店  
 convenience 方便，便利  
-reprodutive 生殖的，繁殖的  
+reproductive 生殖的，繁殖的  
 threat n.威胁  
 After post-Roe abortion bans 在因"罗文韦德诉韦德案"实施的堕胎禁令出台后。  
 primarily 首要的  
@@ -25,9 +25,7 @@ rely 依赖
 reliable 可信赖的  
 redundancy 冗余  
 show up 展示  
-bank on 指望  
 Everyone is banking on an economic rebound to help ease the state's fiscal problems.  
-streamline 使组织化  
 disruption 中断  
 revenue 收入(对：expanse)  
 diminish 削减  
@@ -36,24 +34,19 @@ reputational 名誉上的
 mitigate 减轻  
 essential 必要的  
 effectively 有效地  
-insight 洞察力  
 expert 专家  
 regard 考虑  
 accountability 责任心  
-constitude 构成  
+constitute 构成  
 aside 旁边  
 condition 条件，状况  
-propose 提议  
-feed 饲养，供给  
 developmental psychologic 发展心理学  
 ignorance 愚昧，无知  
-nor 也不是  
 sink 下沉  
 sociology 社会学  
 fulfil 实现  
 the needs that the family fulfills  
 vary 差异，不同  
-society 社会  
 subordinate 下属的  
 consist 组成  
 widow 寡妇  
@@ -114,7 +107,7 @@ supermarket chain 连锁超市
 earn 收入  
 outpace 超过  
 average adj. n. v.
-appitite 欲望  
+appetite 欲望  
 delicacy 美味佳肴  
 come by 获取，得到  
 durian 榴莲  
@@ -135,7 +128,7 @@ narrow 狭窄的
 ingredient 原料  
 leave shoppers puzzled  
 catch on 流行起来  
-subburb 郊区  
+suburb 郊区  
 divorce 离婚  
 diverse 各种各样的  
 nicety 细节  
@@ -146,7 +139,7 @@ subtract 减去(add的反义词)
 extraordinarily 出乎意料地  
 finance 资金，财政 
 financial 财政的   
-damanding 高要求的  
+demanding 高要求的  
 compulsory 强制的  
 curriculum 课程  
 Make financial education a compulsory element of the school curriculum in England.  
@@ -215,3 +208,18 @@ supervisor 指导教师
 terminate 终止  
 apparently 显然  
 nurture 培养  
+___
+register 寄存器  
+overlay 覆盖  
+swapper 交换器  
+hellish 地狱般的  
+salary ˈsæləri
+raise 提高  
+lousy 糟糕的  
+eventually 最终  
+nasty 令人不快的  
+funk 恐惧  
+wreck 毁坏  
+quit 离职  
+emotionally 情感化的  
+accountable 负有责任的 
