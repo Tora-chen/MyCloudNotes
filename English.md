@@ -104,7 +104,6 @@ tournament 锦标赛
 authentication 身份验证  
 chain 链条；连锁  
 supermarket chain 连锁超市  
-earn 收入  
 outpace 超过  
 average adj. n. v.
 appetite 欲望  
@@ -223,3 +222,22 @@ wreck 毁坏
 quit 离职  
 emotionally 情感化的  
 accountable 负有责任的 
+___
+values 价值观  
+提倡 uphold  
+反对  oppose  
+被称为...的人 who are dubbed  
+社会上出现了 appeared in society  
+大多是 are mostly  
+工作岗位 workplace  
+收入 earnings  
+花光、耗尽 exhaust  
+养成习惯: develop a habit  
+消费习惯 consumption habit  
+节俭 thrift  
+一群人 a group of people  
+刚刚 have just  ed  
+各种各样的 different kind of  
+存钱的习惯 habit of saving money  
+
+
