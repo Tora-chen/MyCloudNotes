@@ -1,5 +1,6 @@
 <!-- 电路与电子学 -->
 <meta name="viewport" content="width=device-width" initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable="no">
+
 # 电路与电子学
 
 - 教材：电路与电子学（第六版）李晶皎
@@ -26,4 +27,5 @@
 理想电流源符号： $^{4A}\theta$
 
 电流的实际方向：正电荷移动的方向  
-电流的参考方向：
+电流的参考方向：为了方便分析计算，任意假定的电流方向  
+
