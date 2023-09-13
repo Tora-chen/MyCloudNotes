@@ -32,8 +32,7 @@
 
 ### 逻辑代数中的基本计算
 - 与运算（逻辑乘）：$F=A\cdot B$  
-  与门国家标准符号；国际标准符号；
 - 或运算（逻辑加）：$F=A+B$  
-  或门国家标准符号；国际标准符号；   
-- 非运算（逻辑反）：$F=\overline{A}$  
-  非门国家标准符号；国际标准符号；
+- 非运算（求补）：$F=\overline{A}$  
+- 
+![国家标准符号与国际标准符号](https://p-blog.csdn.net/images/p_blog_csdn_net/children1987/EntryImages/20091211/%E9%97%A8%E7%94%B5%E8%B7%AF%E5%AF%B9%E7%85%A7%E8%A1%A8.jpg)
