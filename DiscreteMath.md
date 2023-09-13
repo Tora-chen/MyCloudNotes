@@ -18,4 +18,4 @@
   - 析取 (Disjunction) : $P∨Q$
   - 条件命题: $P→Q ( if\ P\ then\ Q )$
   - 双条件命题：$P\iff Q ( P\ iff\ Q )$
-  - 否定命题：命题P的否定命题¬P
+  - 否定命题：命题P的否定命题 $¬P$

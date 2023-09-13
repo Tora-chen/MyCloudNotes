@@ -239,5 +239,21 @@ values 价值观
 刚刚 have just  ed  
 各种各样的 different kind of  
 存钱的习惯 habit of saving money  
+___
+principle 原则  
+Hippocratic oath 希波克拉底誓言  
+arrogant 傲慢的  
+indeed 确实  
+therefore 因此  
+in order to 为了  
+imperfection 不完美   
+virtual 虚拟的  
+account 账户  
+accountable 负有责任的  
+accountability 责任心  
+accountant 会计  
+object  反对  
+release 发布  
+
 
 
