@@ -280,4 +280,35 @@ solid 实心的，坚固的
 distracted 分心的  
 wind up 以…收场  
 settle 平静，使安静下来  
-If you are tired or distracted, do not code. You'll only wind up redoing what you did. Instead, find a way to eliminate the distraction and settle your mind.
+If you are tired or distracted, do not code. You'll only wind up redoing what you did. Instead, find a way to eliminate the distraction and settle your mind.  
+host 主持人；主机  
+MDMA, aka “ecstasy” or “molly,” combined with therapy, was shown to produce a “clinically meaningful” improvement for almost 90% of treated patients with moderate and severe PTSD.  
+MDMA: 摇头丸  
+combined with 与…结合  
+therapy 心理治疗  
+produce 引起  
+treat 治疗  
+patient adj.耐心; n.病人  
+moderate 中等的  
+severe 严重的  
+aka = also known as  
+clinically 临床上  
+___
+dedicate 把...奉献于  
+She dedicates herself to her work.  
+serious 严肃的，认真的  
+seriously 认真地  
+bite 产生不良影响  
+The recession is beginning to bite  
+recession 衰退  
+institute 制定  
+faulty 有错误的  
+consistent 一致的  
+odd 反常的  
+moral 寓意  
+anxious 令人焦急的  
+distracting 分散注意  
+spouse 配偶  
+maintain focus  
+keep it up 坚持下去  
+
