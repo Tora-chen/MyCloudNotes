@@ -1,4 +1,8 @@
 <!-- title: English -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<iframe src="./English_index.html" height="100px" width="100%" style="border: 1px solid #999fff; border-radius: 10px"></iframe>
+
 disastrous a.灾难性的  
 tornado 龙卷风  
 Tornado Decimates Trailer Park 龙卷风摧毁停车场  
@@ -312,3 +316,5 @@ spouse 配偶
 maintain focus  
 keep it up 坚持下去  
 
+___
+#### [下一页](./English_2.html)
