@@ -1,6 +1,9 @@
 <!-- title: 数据结构 -->
 <meta name="viewport" content="width=device-width" initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable="no">
 
+# 数据结构
+- 胡健 办公室瀚学1111
+- 期末80% 出勤、随堂10% 作业10%
 # 绪论
 
 ### 1.2 基本概念和术语

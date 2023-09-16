@@ -43,7 +43,6 @@ condition 条件，状况
 developmental psychologic 发展心理学  
 ignorance 愚昧，无知  
 sink 下沉  
-sociology 社会学  
 fulfil 实现  
 the needs that the family fulfills  
 vary 差异，不同  
@@ -52,7 +51,6 @@ consist 组成
 widow 寡妇  
 prevalent 盛行  
 several 几个  
-hunt 打猎，搜寻  
 gather 群居  
 bond 絆。金。  
 kinship 亲属关系  
@@ -60,7 +58,6 @@ disperse 驱散
 separate 单独的，分开的  
 separate bedroom 独立卧室  
 scarce 缺乏的  
-primarily 首要的  
 infirm 年老体弱的人  
 firm 强壮的  
 childbearing 分娩  
@@ -167,7 +164,6 @@ comprehensive 综合性的
 conclusion 结论  
 pre-requisite 先决条件  
 intrigued 好奇的  
-notion 概念  
 dire 急需  
 in dire need of  
 panic 恐慌  
@@ -184,8 +180,6 @@ discipline 纪律
 consider 考虑，认为  
 essentially 本质上  
 phrase 短语  
-intentionally 有意地  
-blank 空白的  
 manual 手册  
 shelf 架子  
 stack 堆  
@@ -204,7 +198,6 @@ band 带子
 wrap 包裹  
 operator 操作员  
 supervisor 指导教师  
-terminate 终止  
 apparently 显然  
 nurture 培养  
 ___
@@ -230,7 +223,6 @@ values 价值观
 社会上出现了 appeared in society  
 大多是 are mostly  
 工作岗位 workplace  
-收入 earnings  
 花光、耗尽 exhaust  
 养成习惯: develop a habit  
 消费习惯 consumption habit  
@@ -254,6 +246,38 @@ accountability 责任心
 accountant 会计  
 object  反对  
 release 发布  
-
-
-
+is located in 位于  
+inland 内陆的  
+pearl 珍珠  
+___
+郊区 suburb  
+保存完好的 will-preserved  
+始建于 was first built  
+century 世纪  
+reno'vation 整修，翻修  
+extension 扩建  
+several 几个  
+数百年 several hundred years  
+在接下来的数百年  
+in the following several hundred years  
+scale 规模  
+scalable 可扩展的  
+led it into the scale we see today  
+palace 宫殿  
+temple  庙宇  
+古老的 ancient  
+historic 历史的  
+trial 试验  
+The US government takes on Google in historic trial.
+美国政府在历史性的审判中对谷歌提起诉讼。
+confidence 信心  
+sense 察觉到  
+being able to sense your errors  
+approach 方法  
+discipline 纪律  
+requires you to 要求你…   
+solid 实心的，坚固的  
+distracted 分心的  
+wind up 以…收场  
+settle 平静，使安静下来  
+If you are tired or distracted, do not code. You'll only wind up redoing what you did. Instead, find a way to eliminate the distraction and settle your mind.
