@@ -48,19 +48,35 @@
 - 交换律：$P∧Q≡Q∧P$，$P∨Q≡Q∨P$
 - 结合律：$P∧(Q∧R)≡(P∧Q)∧R$，$P∨(Q∨R)≡(P∨Q)∨R$
 - 分配律：$P∧(Q∨R)≡(P∧Q)∨(P∧R)$，$P∨(Q∧R)≡(P∨Q)∧(P∨R)$
-- 德摩根律：$¬(P∧Q)≡¬P∨¬Q$，$¬(P∨Q)≡¬P∧¬Q$
+- **德摩根律**：$¬(P∧Q)≡¬P∨¬Q$，$¬(P∨Q)≡¬P∧¬Q$
 - 互补律：$P∨¬P≡T$，$P∧¬P≡F$
 - 逆否命题：$P→Q≡¬Q→¬P$
-- 条件式子：$A \to B ≡ \lnot A \lor B$
+- **条件式子**：$A \to B ≡ \lnot A \lor B$
 
 例题：  
-$$证明(P \land Q) \lor (P \land \lnot Q) \iff P.$$
+
+1. 证明$(P \land Q) \lor (P \land \lnot Q) \iff P.$  
 证：
 $$
 \begin{align*}
     (P \land Q) \lor (P \land \lnot Q) &\equiv P\land(Q \lor \lnot Q)\\
     &\equiv P \land T\\
     &\equiv P\\
+\end{align*}
+$$
+
+2. 证明 $P \land (P \to Q) \to Q \iff T$.  
+证：
+$$
+\begin{align*}
+    P \land (P \to Q) \to Q 
+    &\equiv P \land (\lnot P \lor Q) \to Q\\
+    &\equiv F \lor (P \land Q) \to Q\\
+    &\equiv P \land Q \to Q\\
+    &\equiv \lnot (P \land Q) \lor Q\\
+    &\equiv \lnot P \lor \lnot Q \lor Q\\
+    &\equiv \lnot P \lor T\\
+    &\equiv T\\
 \end{align*}
 $$
 
