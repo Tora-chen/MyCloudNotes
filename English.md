@@ -1,21 +1,48 @@
 <!-- title: English -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+___
+adaptation 改编版；适应  
+habitat 生活环境，栖息地  
+acquire  获得，学到  
+express 表达  
+extend 延伸  
+humble 谦逊的  
+refine 改进，完善  
+refined 有教养的  
+revolve （使得）旋转  
+speculate 猜测，推测  
+thrive 茁壮成长，兴旺  
+brutal 野蛮的，凶残的  
+deliberately 故意地  
+literally 根据字面意思  
+fit 合适  
+vast 巨大的，大量的  
+behavior  n.行为  
+behave v.表现
+genetic 遗传的  
+appear to be 好像是，仿佛  
+refer to 提到  
+instinctive 本能的  
+instinct 本能  
+affect 影响  
+instance 例子  
+for instance 例如  
+
+
+
+___
 disastrous a.灾难性的  
-tornado 龙卷风  
 Tornado Decimates Trailer Park 龙卷风摧毁停车场  
 casualty n.伤亡  
 collapse n.倒塌；崩溃  
 He felt he would never tire of listening to her stories.  
 oral contraceptive 口服避孕药  
-contraceptive 避孕药  
 tablet 药片;手写板  
 grocery 食品杂货店  
 convenience 方便，便利  
-reproductive 生殖的，繁殖的  
 threat n.威胁  
 After post-Roe abortion bans 在因"罗文韦德诉韦德案"实施的堕胎禁令出台后。  
-primarily 首要的  
 barrier 障碍，障碍物  
 Opill, known generically as norgestrel, will be available without a doctor’s prescription for buyers of all
 ages. That will primarily benefit teenagers and the 45% of women who face at least one barrier to reproductive
@@ -313,6 +340,4 @@ distracting 分散注意
 spouse 配偶  
 maintain focus  
 keep it up 坚持下去  
-
-___
-#### [下一页](./English_2.html)
+experimental 实验性的  
