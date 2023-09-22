@@ -18,4 +18,17 @@
 　　　　Data_Structure = (D, S)  
 其中，D 是数据元素的有限集，S 是 D 上关系的有限集。
 
+## 线性表
+### 线性表的顺序表示和实现
+顺序存储：逻辑上相邻，物理上也相邻。  
+顺序表的类型定义：
+```c
+#define MAXLEN 100
+typedef struct
+{
+    ElemType* elem;
+    int length;
+} SqList;
+```
+
 

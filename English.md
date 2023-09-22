@@ -1,6 +1,80 @@
 <!-- title: English -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+
+memory allocation 内存分配  
+chart 图表  
+death [C]   
+shrinking  adj. 缩小的  
+consider v. 考虑  
+big deal 重要的事  
+manufacturing 制造业  
+manufacture v. 制造  
+superpower 超级大国  
+in large part because of  主要是因为  
+be projected to 预计  
+project v. 预计  
+growth 增长  
+policies 政策  
+contribute to 有助于  
+today, it's looking to reverse course; 今天，它正在寻求扭转局面  
+course n. 课程; 方向，进程，航线  
+steady adj. 稳定的  
+gruesome adj. 可怕的  
+on record 有记录的  
+crises 危机  
+combined with 结合  
+medical advances 医学进步  
+infant morality rates 婴儿死亡率  
+skyrocket v. 猛增  
+policy 政策  
+interval 间隔  
+trending down 趋势下降  
+implement v. 实施  
+
+
+
+___
+dedicate 把...奉献于  
+She dedicates herself to her work.  
+serious 严肃的，认真的  
+seriously 认真地  
+bite 产生不良影响  
+The recession is beginning to bite  
+recession 衰退  
+institute 制定  
+faulty 有错误的  
+consistent 一致的  
+odd 反常的  
+moral 寓意  
+anxious 令人焦急的  
+distracting 分散注意  
+spouse 配偶  
+maintain focus  
+keep it up 坚持下去  
+experimental 实验性的  
+genius 天才；天资；才能    
+nurture 培养  
+standardized tests 标准化考试  
+colonize 殖民  
+preserve 保护  
+future generations 未来的一代  
+generational spacecraft 代际飞船  
+sustain 维持  
+cemetery rows 墓地排  
+totally 完全地  
+deflate 放气  
+engage them 使参加  
+constantly 始终，重复不断  
+devalued 贬值  
+in particular 尤其  
+marginalized 边缘化  
+envision 想象  
+students need to envision themselves as successful in life  
+scripted 脚本化的  
+curriculum 课程  
+I don't think there's a single teacher candidate that said, "I want to be a teacher so I can help kids pass standardized tests."  
+constitution 宪法  
 ___
 adaptation 改编版；适应  
 habitat 生活环境，栖息地  
@@ -28,9 +102,6 @@ instinct 本能
 affect 影响  
 instance 例子  
 for instance 例如  
-
-
-
 ___
 disastrous a.灾难性的  
 Tornado Decimates Trailer Park 龙卷风摧毁停车场  
@@ -166,12 +237,10 @@ finance 资金，财政
 financial 财政的   
 demanding 高要求的  
 compulsory 强制的  
-curriculum 课程  
 Make financial education a compulsory element of the school curriculum in England.  
 pension 养老金  
 parenting website 育儿网站  
 omission 忽略  
-confusing 令人困惑的  
 ___
 as fast-changing as our own  
 像我们自身一样快速变化   
@@ -223,7 +292,6 @@ increment 增量
 decrement 减量  
 puncher 打孔机  
 rubber 橡胶  
-band 带子  
 wrap 包裹  
 operator 操作员  
 supervisor 指导教师  
@@ -322,22 +390,3 @@ moderate 中等的
 severe 严重的  
 aka = also known as  
 clinically 临床上  
-___
-dedicate 把...奉献于  
-She dedicates herself to her work.  
-serious 严肃的，认真的  
-seriously 认真地  
-bite 产生不良影响  
-The recession is beginning to bite  
-recession 衰退  
-institute 制定  
-faulty 有错误的  
-consistent 一致的  
-odd 反常的  
-moral 寓意  
-anxious 令人焦急的  
-distracting 分散注意  
-spouse 配偶  
-maintain focus  
-keep it up 坚持下去  
-experimental 实验性的  

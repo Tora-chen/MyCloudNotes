@@ -57,6 +57,17 @@
 <p>数据结构的形式定义为：数据结构是一个二元组<br>
 　　　　Data_Structure = (D, S)<br>
 其中，D 是数据元素的有限集，S 是 D 上关系的有限集。</p>
+<h2 id="线性表">线性表</h2>
+<h3 id="线性表的顺序表示和实现">线性表的顺序表示和实现</h3>
+<p>顺序存储：逻辑上相邻，物理上也相邻。<br>
+顺序表的类型定义：</p>
+<pre><code class="language-c"><span class="hljs-meta">#<span class="hljs-keyword">define</span> MAXLEN 100</span>
+<span class="hljs-keyword">typedef</span> <span class="hljs-class"><span class="hljs-keyword">struct</span>
+{</span>
+    ElemType* elem;
+    <span class="hljs-type">int</span> length;
+} SqList;
+</code></pre>
 
         
         
