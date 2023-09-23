@@ -1,7 +1,28 @@
 <!-- title: English -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-
+___
+gradle 依赖管理工具  
+adapting 适应;改装...使适合  
+adapt 适应  
+nests 巢穴  
+brutal 野蛮的  
+consciously 有意识地  
+crawling 爬行  
+crowded 拥挤的  
+moderate 中等的  
+species 物种  
+specimens 标本  
+thick 厚的  
+desert  沙漠  
+heat 热  
+extreme heat 极端高温  
+tracking 追踪  
+melt 融化  
+triangular 三角形的  
+metallic 金属的  
+awful 糟糕的  
+___
 memory allocation 内存分配  
 chart 图表  
 death [C]   
@@ -31,9 +52,6 @@ policy 政策
 interval 间隔  
 trending down 趋势下降  
 implement v. 实施  
-
-
-
 ___
 dedicate 把...奉献于  
 She dedicates herself to her work.  
