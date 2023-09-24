@@ -1,24 +1,69 @@
 <!-- title: English -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+technology **n**.技术  
+technological **adj.** 技术的  
+envy v.羡慕，向往，渴望  
+critical adj.关键的  
+They are the ones who, right in the middle of a critical meeting, are expected to instantly fix the projector that's no longer working.  
+他们是那些正在关键会议中，被期望立即修理不再工作的投影仪的人。
+right 正当  
+instantly adv.立即  
+projector 投影仪  
+tolerate v.容忍  
+tolerance n.容忍
+temper n.脾气  
+colleague n.同事  
+frustrate v.使沮丧  
+help desk 帮助台  
+put up the funds 提供资金  
+put up: 提供  
+fund n.资金
+They have to tolerate the bad tempers of colleagues frustrated at the number of times they've had to call the help desk for the same issue.  
+他们必须容忍同事们的坏脾气，因为他们打电话给帮助台解决同样的问题的次数太多了。  
+reliant adj.依赖的  
+employee n.雇员  
+dissatisfaction n.不满  
+satisfaction n.满意  
+fault n.缺点  
+productivity n.生产力  
+deteriorating adj.恶化的  
+existent adj.存在的  
+Through no fault of their own they can suddenly find their productivity deteriorating or quality control non-existent. And there's little they can do about it.  
+尽管不是他们自己的错，他们会突然发现他们的生产力在下降，或者缺少质量控制。他们对此无能为力。  
+penetrate v.渗透  
+crucial adj.关键的  
+operate 运转  
+When IT is operating as it should.  
+confidence n.信心  
+swell v.膨胀  
+surge v.激增  
+dull adj.无聊的  
+repetitive adj.重复的  
+
+
 ___
 gradle 依赖管理工具  
-adapting 适应;改装...使适合  
-adapt 适应  
+adapt 适应;改装...使适合  
+e.g. adapt the code to work with the new version of the library  
 nests 巢穴  
-brutal 野蛮的  
+brutal 野蛮的;严酷的  
+e.g. brutal winter
 consciously 有意识地  
+e.g. consciously choose to use a library
 crawling 爬行  
 crowded 拥挤的  
 moderate 中等的  
 species 物种  
 specimens 标本  
 thick 厚的  
+thick-skinned 厚脸皮的
 desert  沙漠  
 heat 热  
 extreme heat 极端高温  
 tracking 追踪  
 melt 融化  
+melted ice 融化的冰  
 triangular 三角形的  
 metallic 金属的  
 awful 糟糕的  
