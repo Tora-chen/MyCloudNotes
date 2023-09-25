@@ -74,7 +74,7 @@ moderate 中等的.
 species 物种.  
 specimens 标本.  
 thick 厚的.  
-thick-skinned 厚脸皮的
+thick-skinned 厚脸皮的  
 desert.  沙漠.  
 heat 热.  
 extreme heat 极端高温.  
@@ -86,6 +86,9 @@ metallic 金属的.
 awful 糟糕的.  
 ___
 memory allocation 内存分配.  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gmehUgOy5ok?si=7jJWJX3GkGP_TvmW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 chart 图表.  
 death [C].   
 shrinking.  adj. 缩小的.  
@@ -269,7 +272,6 @@ peer 同龄人.
 assume a role 发挥作用.  
 consequently 因此.  
 separating 分离的.  
-decline 下降，减少.  
 ___
 deliver 推送.  
 straight 直的.  
@@ -325,13 +327,10 @@ ___
 as fast-changing as our own.  
 像我们自身一样快速变化.   
 Yet evidence suggests 然而证据表明.  
-technique 技巧.  
 effective 有效的.  
 Worse: adj. & adv..  
 strategies 策略.  
-employ 使用.  
 literature 文献
-among 在...之中.  
 evaluate 评估.  
 stretches back 追溯.  
 decade 十年.  
@@ -355,7 +354,6 @@ classification 分类.
 describe 描述.  
 attitude 姿态，个人风格.  
 discipline 纪律.  
-consider 考虑，认为.  
 essentially 本质上.  
 phrase 短语.  
 manual 手册.  
@@ -412,16 +410,12 @@ ___
 principle 原则.  
 Hippocratic oath 希波克拉底誓言.  
 arrogant 傲慢的.  
-indeed 确实.  
-in order to 为了.  
 imperfection 不完美.   
 virtual 虚拟的.  
-account 账户.  
 accountable 负有责任的.  
 accountability 责任心.  
 accountant 会计.  
 object.  反对.  
-release 发布.  
 is located in 位于.  
 inland 内陆的.  
 pearl 珍珠.  
@@ -452,7 +446,6 @@ being able to sense your errors.
 approach 方法.  
 discipline 纪律.  
 requires you to 要求你….   
-solid 实心的，坚固的.  
 distracted 分心的.  
 wind up 以…收场.  
 settle 平静，使安静下来.  
