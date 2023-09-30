@@ -1,5 +1,9 @@
 {
     "cSpell.words": [
         "bigg"
-    ]
+    ],
+    "files.associations": {
+        "*.md": "markdown",
+        "xutility": "c"
+    }
 }
