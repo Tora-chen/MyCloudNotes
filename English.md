@@ -1,7 +1,82 @@
 <!-- title: English -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+[The life cycle of a cup of coffee - A.J. Jacobs](https://youtu.be/M0VWroX0gZA?si=q3sJ1PFUyQFDXTtF)
 
+finest 最好的  
+organic 有机的  
+suspension 悬浮液  
+devise 发明  
+globe-spanning  遍布全球的  
+staple 主食  
+cost n. and v.
+complexity 复杂性
+neat 整齐的  
+shrub 灌木  
+since 由于  
+domesticate 引进  
+equatorial 赤道的  
+ripen 成熟  
+harvester 收割者  
+toil 苦干  
+dawn 黎明  
+dusk 黄昏  
+altitude 海拔  
+shift 轮班  
+wage 工资  
+mill 磨粉  
+density 密度  
+flavorful 可口；有风味  
+ferment 发酵  
+tub 桶  
+wash off 洗掉  
+spread 展开  
+mesh 网  
+rack 支架  
+rake 耙  
+regularly 定期地  
+evenly 均匀地  
+assortment 各种各样  
+sieve 筛子  
+filter 过滤  
+roast 烘烤  
+brew 酿造  
+evaluate 评估  
+aroma 香气  
+determine 决定  
+burlap 粗麻布  
+sack 麻袋  
+metric 公制  
+tropical 热带的  
+cargo 货物  
+crew 船员  
+consume 消费  
+fleet 舰队  
+warehouse 仓库  
+ware 制品，用品  
+roastery 烘焙厂  
+stirred 搅拌  
+metallic 金属的  
+sensor 传感器  
+monitor 监控；显示器；班长    
+Plug-and-Play monitor 即插即用显示器  
+moisture 湿度  
+manually 手动地  
+grindable 可磨的  
+stretch 任务  
+delivery 交付  
+route 路线  
+brave 勇敢  
+barista 咖啡师  
+serve 服务  
+elixir 万能药  
+Elixir （琴弦）伊利克斯
+hurried 匆忙的  
+individual 个人  
+marvel 感到惊叹  
+commodity 商品  
+value 给...定价  
+___
 refer to 提到  
 academic adj. 学术的  
 performance n. 表现  
@@ -396,7 +471,6 @@ ___
 register 寄存器  
 overlay 覆盖  
 swapper 交换器  
-hellish 地狱般的  
 salary ˈsæləri
 raise 提高  
 lousy 糟糕的  
@@ -408,7 +482,6 @@ quit 离职
 emotionally 情感化的  
 accountable 负有责任的 
 ___
-values 价值观  
 提倡 uphold  
 反对  oppose  
 被称为...的人 who are dubbed  
@@ -428,7 +501,6 @@ principle 原则
 Hippocratic oath 希波克拉底誓言  
 arrogant 傲慢的  
 imperfection 不完美   
-virtual 虚拟的  
 accountable 负有责任的  
 accountability 责任心  
 accountant 会计  
