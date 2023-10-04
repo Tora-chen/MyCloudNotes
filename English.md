@@ -1,6 +1,11 @@
 <!-- title: English -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+prevent 组止，阻碍  
+heart attacks 心脏病发作  
+broken bones 骨折  
+emergency 急诊  
+___
 [The life cycle of a cup of coffee - A.J. Jacobs](https://youtu.be/M0VWroX0gZA?si=q3sJ1PFUyQFDXTtF)
 
 finest 最好的  
@@ -9,11 +14,9 @@ suspension 悬浮液
 devise 发明  
 globe-spanning  遍布全球的  
 staple 主食  
-cost n. and v.
 complexity 复杂性
 neat 整齐的  
 shrub 灌木  
-since 由于  
 domesticate 引进  
 equatorial 赤道的  
 ripen 成熟  
@@ -40,12 +43,10 @@ assortment 各种各样
 sieve 筛子  
 filter 过滤  
 roast 烘烤  
-brew 酿造  
 evaluate 评估  
+"e-" 表示 "向外" 或 "全面的"  
 aroma 香气  
 determine 决定  
-burlap 粗麻布  
-sack 麻袋  
 metric 公制  
 tropical 热带的  
 cargo 货物  
@@ -59,16 +60,16 @@ stirred 搅拌
 metallic 金属的  
 sensor 传感器  
 monitor 监控；显示器；班长    
-Plug-and-Play monitor 即插即用显示器  
+plug-and-play monitor 即插即用显示器  
 moisture 湿度  
 manually 手动地  
 grindable 可磨的  
 stretch 任务  
-delivery 交付  
+schedule 日程  
+delivery n. 交付  
 route 路线  
 brave 勇敢  
 barista 咖啡师  
-serve 服务  
 elixir 万能药  
 Elixir （琴弦）伊利克斯
 hurried 匆忙的  
@@ -82,20 +83,15 @@ academic adj. 学术的
 performance n. 表现  
 cope with 应付  
 for instance 例如  
-instance n. 例子  
 matter a great deal 非常重要  
 ultimate adj. 最终的  
 observation n. 观察  
 thrive v. 茁壮成长
-
 ___
 efficiency 效率  
-IT transformation project IT转型项目  
 trigger v.触发  
 widespread adj.普遍的  
-frustration n.挫折.
-technology **n**.技术  
-technological **adj.** 技术的  
+frustration n.挫折.  
 envy v.羡慕，向往，渴望  
 critical adj.关键的  
 They are the ones who, right in the middle of a critical meeting, are expected to instantly fix the projector that's no longer working.  
@@ -103,11 +99,10 @@ They are the ones who, right in the middle of a critical meeting, are expected t
 instantly adv.立即  
 projector 投影仪  
 tolerate v.容忍  
-tolerance n.容忍
+tolerance n.容忍  
 temper n.脾气  
 colleague n.同事  
 frustrate v.使沮丧  
-help desk 帮助台  
 put up the funds 提供资金  
 put up: 提供  
 fund n.资金  
@@ -177,17 +172,20 @@ memory allocation 内存分配
 chart 图表  
 death [C]   
 shrinking  adj. 缩小的  
-consider v. 考虑  
 big deal 重要的事  
 manufacturing 制造业  
 manufacture v. 制造  
 superpower 超级大国  
-in large part because of  主要是因为  
+in large part because of  主要是因为 
+gruesome 恐怖的，可怕的  
+spike 激增   
 be projected to 预计  
 project v. 预计  
 growth 增长  
 policies 政策  
-contribute to 有助于  
+contribute to 是……的原因之一  
+contribute 捐献，贡献  
+tribute 礼物  
 today, it's looking to reverse course; 今天，它正在寻求扭转局面  
 course n. 课程; 方向，进程，航线  
 steady adj. 稳定的  
@@ -207,7 +205,6 @@ harsh adj. 严厉的
 measure n. 措施  
 back up 支持  
 sterilization n. 绝育  
-IUD 宫内节育器  
 induced abortion 人工流产. 
 accomplish v. 完成  
 restrictive adj. 限制性的  
@@ -407,6 +404,7 @@ purchase 采购
 ___
 subtract 减去(add的反义词)  
 extraordinarily 出乎意料地  
+ordinary 普通的  
 finance 资金，财政 
 financial 财政的   
 demanding 高要求的  
@@ -450,7 +448,6 @@ essentially 本质上
 phrase 短语  
 manual 手册  
 shelf 架子  
-stack 堆  
 punch 打孔  
 deck 牌组  
 stripe n. & v. (加上)条纹  

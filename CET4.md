@@ -18,3 +18,6 @@
 词测3：第13周   
 词测4：第15周  
 
+Millions of people across the eastern United States are clearing up after one of the biggest winter storms in decades Government offices in Washington and many schools will be closed on Monday. From West Virginia to southern Maine, millions of people have been digging out after one of the worst winter storms ever recorded. Over 70 centimeters of snow fell in Washington. Officials hope to have the public transport system and the city ' s two main airports open again for the start of the working week. New York is also recovering from its second largest snowfall. Travel restrictions have been lifted, although the public has been warned to make only essential journeys to lp emergency vehicles with the clear-up. Medical centers say they are getting ready to respond to heart attacks and broken bones as residents shovel snow away from their pathways. 
+1. What is the news report mainly about ?
+2. Which city suffers from its 
