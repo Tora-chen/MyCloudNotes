@@ -1,6 +1,78 @@
 <!-- title: English -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+[Small Habits that Make a Big Impact on Your Life | Official Trailer | MasterClass](https://youtu.be/Esw4p0C5u-g?si=C4ifs-qIY8PQI_b9)
+execute 执行  
+perform 表现  
+consistent 始终如一的  
+get in shape 恢复身材  
+reduce 减少  
+broader 更广泛的  
+repetition 重复  
+toward 朝着  
+outcome 结果  
+atomic 原子的  
+symbolism 象征  
+iceberg 冰山  
+surface 表面  
+get your running shoes on 穿上你的跑鞋  
+ally 盟友  
+enemy 敌人  
+
+---
+
+[How Business Can Drive Solutions to Social Problems | TED](https://youtu.be/e1AibqnDvEk?si=8VBMjSjsuQNmTZKZ)
+acumen 聪明  
+beyond ……之外  
+He's done so in his country and beyond  
+affordable 负担得起的  
+maternity 产假  
+clinics 诊所  
+infrastructure 基础设施  
+a couple of years 几年  
+convince 说服  
+spotlight 聚光灯  
+glossy 时尚  
+deserve 应得  
+context 环境，背景，上下文  
+coast 海滨，海岸  
+Pacific 太平洋  
+we grew our economy close to 5 percent  
+certainly 当然  
+poverty rate 贫困率  
+eventually 最终  
+hurdles 障碍  
+assessment 评估  
+encouraging 鼓励  
+comprehension 理解  
+various 各种各样的  
+despite 尽管  
+involve 涉及  
+
+---
+
+[The benefits of a good night's sleep](https://youtu.be/gedoSfZvBgE?si=QHaclI7BB00gTar9)
+
+recital 独奏会  
+either 任何一个  
+cramming 填鸭式教育  
+occupy 占据  
+misunderstanding 误解  
+critical function 极其重要的功能  
+regulate 调节  
+vital 重要的  
+affect 影响  
+respiration 呼吸  
+immune 免疫  
+crucial 至关重要的  
+as you drift off 当你入睡时  
+intensely 强烈地  
+period 时期  
+glance 一瞥  
+impressive 令人印象深刻的  
+
+---
+
 prevent 组止，阻碍  
 heart attacks 心脏病发作  
 broken bones 骨折  
@@ -76,7 +148,6 @@ hurried 匆忙的
 individual 个人  
 marvel 感到惊叹  
 commodity 商品  
-value 给...定价  
 ___
 refer to 提到  
 academic adj. 学术的  
@@ -139,7 +210,6 @@ adequate adj.足够的
 practitioner n.从业者.
 mentally adv.精神上  
 therefore adv.因此  
-infrastructure 基础设施  
 
 ___
 gradle 依赖管理工具  
@@ -273,7 +343,6 @@ appear to be 好像是，仿佛
 refer to 提到  
 instinctive 本能的  
 instinct 本能  
-affect 影响  
 ___
 disastrous a.灾难性的  
 Tornado Decimates Trailer Park 龙卷风摧毁停车场  
@@ -471,7 +540,6 @@ swapper 交换器
 salary ˈsæləri
 raise 提高  
 lousy 糟糕的  
-eventually 最终  
 nasty 令人不快的  
 funk 恐惧  
 wreck 毁坏  
