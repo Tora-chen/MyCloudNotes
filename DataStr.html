@@ -44,10 +44,33 @@
 <meta name="viewport" content="width=device-width" initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable="no">
 <h1 id="数据结构">数据结构</h1>
 <ul>
-<li>胡健 办公室瀚学1111</li>
-<li>期末80% 出勤、随堂10% 作业10%</li>
+<li><a href="#%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84">数据结构</a>
+<ul>
+<li><a href="#%E7%BB%AA%E8%AE%BA">绪论</a>
+<ul>
+<li><a href="#12-%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E5%92%8C%E6%9C%AF%E8%AF%AD">1.2 基本概念和术语</a></li>
 </ul>
-<h1 id="绪论">绪论</h1>
+</li>
+<li><a href="#%E7%BA%BF%E6%80%A7%E8%A1%A8">线性表</a>
+<ul>
+<li><a href="#%E7%BA%BF%E6%80%A7%E8%A1%A8%E7%9A%84%E9%A1%BA%E5%BA%8F%E8%A1%A8%E7%A4%BA%E5%92%8C%E5%AE%9E%E7%8E%B0">线性表的顺序表示和实现</a></li>
+</ul>
+</li>
+<li><a href="#%E6%A0%88">栈</a></li>
+<li><a href="#%E9%98%9F%E5%88%97">队列</a>
+<ul>
+<li><a href="#%E5%BE%AA%E7%8E%AF%E9%98%9F%E5%88%97">循环队列</a></li>
+</ul>
+</li>
+<li><a href="#%E4%B8%B2">串</a></li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p>胡健 办公室瀚学1111<br>
+期末80% 出勤、随堂10% 作业10%</p>
+</blockquote>
+<h2 id="绪论">绪论</h2>
 <h3 id="12-基本概念和术语">1.2 基本概念和术语</h3>
 <p>数据 (data) 是对客观事物的符号表示。<br>
 数据元素 (data element) 是数据的基本单位。<br>
@@ -67,6 +90,99 @@
     ElemType* elem;
     <span class="hljs-type">int</span> length;
 } SqList;
+</code></pre>
+<h2 id="栈">栈</h2>
+<p>Stack in STL:</p>
+<pre><code class="language-cpp"><span class="hljs-meta">#<span class="hljs-keyword">include</span> <span class="hljs-string">&lt;stack&gt;</span></span>
+<span class="hljs-keyword">using</span> <span class="hljs-keyword">namespace</span> std;
+<span class="hljs-function"><span class="hljs-type">int</span> <span class="hljs-title">main</span><span class="hljs-params">()</span> </span>{
+    stack&lt;<span class="hljs-type">int</span>&gt; s;
+    s.<span class="hljs-built_in">push</span>(<span class="hljs-number">1</span>);
+    cout &lt;&lt; s.<span class="hljs-built_in">top</span>();
+    s.<span class="hljs-built_in">pop</span>();
+    <span class="hljs-keyword">return</span> <span class="hljs-number">0</span>;
+}
+</code></pre>
+<p>数制转换：</p>
+<pre><code class="language-c"><span class="hljs-keyword">typedef</span> <span class="hljs-class"><span class="hljs-keyword">struct</span> {</span>
+    <span class="hljs-type">int</span> *base;
+    <span class="hljs-type">int</span> *top;
+    <span class="hljs-type">int</span> stacksize;
+} SqStack;
+Status <span class="hljs-title function_">InitStack</span><span class="hljs-params">(SqStack &amp;S)</span> {
+    S.base = (<span class="hljs-type">int</span>*)<span class="hljs-built_in">malloc</span>(STACK_INIT_SIZE * <span class="hljs-keyword">sizeof</span>(<span class="hljs-type">int</span>));
+    <span class="hljs-keyword">if</span>(!S.base) <span class="hljs-built_in">exit</span>(OVERFLOW);
+    S.top = S.base;
+    S.stacksize = STACK_INIT_SIZE;
+    <span class="hljs-keyword">return</span> OK;
+}
+<span class="hljs-type">void</span> <span class="hljs-title function_">conversion</span><span class="hljs-params">()</span> {
+    InitStack(S);
+    <span class="hljs-built_in">scanf</span>(<span class="hljs-string">&quot;%d&quot;</span>, &amp;N);
+    <span class="hljs-keyword">while</span>(N) {
+        Push(S, N % <span class="hljs-number">8</span>);
+        N = N / <span class="hljs-number">8</span>;
+    }
+    <span class="hljs-keyword">while</span>(!StackEmpty(S)) {
+        Pop(S, e);
+        <span class="hljs-built_in">printf</span>(<span class="hljs-string">&quot;%d&quot;</span>, e);
+    }
+}
+</code></pre>
+<h2 id="队列">队列</h2>
+<h3 id="循环队列">循环队列</h3>
+<p>循环队列入队：</p>
+<pre><code class="language-cpp"><span class="hljs-function">Status <span class="hljs-title">EnQueue</span><span class="hljs-params">(SqQueue &amp;Q, QElemType e)</span> </span>{
+    <span class="hljs-keyword">if</span> ((Q.rear + <span class="hljs-number">1</span>) % MAXSIZE == Q.front) {
+        <span class="hljs-keyword">return</span> ERROR;
+    }
+}
+</code></pre>
+<pre><code class="language-cpp"><span class="hljs-function">Status <span class="hljs-title">DeQueue</span> <span class="hljs-params">(SqQueue &amp;Q, QElemType &amp;e)</span> </span>{
+    <span class="hljs-keyword">if</span> (Q.front == Q.rear) <span class="hljs-keyword">return</span> ERROR;
+    e = Q.base[Q.front];
+    Q.front = (Q.front + <span class="hljs-number">1</span>) % MAXSIZE;
+    <span class="hljs-keyword">return</span> OK;
+}
+</code></pre>
+<p>链队列：</p>
+<pre><code class="language-c"><span class="hljs-keyword">typedef</span> <span class="hljs-class"><span class="hljs-keyword">struct</span> <span class="hljs-title">QNode</span> {</span>
+    QElemType data;
+    <span class="hljs-class"><span class="hljs-keyword">struct</span> <span class="hljs-title">QNode</span> *<span class="hljs-title">next</span>;</span>
+} QNode, *QueuePtr;
+<span class="hljs-keyword">typedef</span> <span class="hljs-class"><span class="hljs-keyword">struct</span> {</span>
+    QueuePtr front;
+    QueuePtr rear;
+} LinkQueue;
+
+Status <span class="hljs-title function_">InitQueue</span><span class="hljs-params">(LinkQueue &amp;Q)</span> {
+    Q.front = Q.rear = (QNode*)<span class="hljs-built_in">malloc</span>(<span class="hljs-keyword">sizeof</span>(QNode));
+    <span class="hljs-keyword">if</span> (!Q.front) <span class="hljs-built_in">exit</span>(OVERFLOW);
+    Q.front-&gt;next = <span class="hljs-literal">NULL</span>;
+    <span class="hljs-keyword">return</span> OK;
+}
+
+Status <span class="hljs-title function_">DestroyQueue</span><span class="hljs-params">(LinkQueue &amp; Q)</span> {
+    <span class="hljs-keyword">while</span> (Q.front) {
+        Q.rear = Q.front-&gt;next;
+        <span class="hljs-built_in">free</span>(Q.front);
+        Q.front = Q.rear;
+    }
+    <span class="hljs-keyword">return</span> OK;
+}
+
+Status <span class="hljs-title function_">EnQueue</span><span class="hljs-params">(LinkQueue&amp;Q, QElemType e)</span> {
+    p = (QNode*)<span class="hljs-built_in">malloc</span>(<span class="hljs-keyword">sizeof</span>(QNode));
+    <span class="hljs-keyword">if</span> (!p) <span class="hljs-built_in">exit</span>(OVERFLOW);
+    p-&gt;data = e;
+}
+</code></pre>
+<h2 id="串">串</h2>
+<p>串的顺序存储结构：</p>
+<pre><code class="language-c"><span class="hljs-keyword">typedef</span> <span class="hljs-class"><span class="hljs-keyword">struct</span> {</span>
+    <span class="hljs-type">char</span> *ch;
+    <span class="hljs-type">int</span> length;
+} HString;
 </code></pre>
 
         

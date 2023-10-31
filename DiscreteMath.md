@@ -12,6 +12,7 @@
     - [对偶](#对偶)
     - [范式](#范式)
     - [主范式](#主范式)
+- [谓词演算的推理理论](#谓词演算的推理理论)
 
 ## 数理逻辑
 
@@ -193,4 +194,37 @@ $$
 
 ---
 
+## 谓词演算的推理理论
 
+$A \Rightarrow B 即 A \to B \lrArr T$
+要证 $C$ 是一组前提 $H_1, H_2, ... , H_n$ 的有效结论，需证：
+$$
+H_1 \land H_2 \land ... \land H_n \to C 是重言式
+$$
+
+例题1：证明$(\exist x)(H(x) \to M(x))\land H(s) \Rightarrow M(s)$ (苏格拉底三段论).
+$$
+\begin{align*}
+     &(\exist x)(H(x) \to M(x))   &P\\
+     &H(s) \to M(s)               &T1\\
+     &H(s)                        &P\\
+     &M(s)                        &T2,3,I\\
+\end{align*}
+$$
+
+例题2：证明 $(\forall x)(C(x) \to W(x) \land R(x)) \land (\exist x)(C(x) \land Q(x)) \to (\exist x)(Q(x) \land R(x))$
+
+$$
+\begin{align*}
+    &(1). (\exist x)(C(x) \land Q(x))      &P\\
+    &(2). C(a) \land Q(a)                  &T1, ES\\
+    &(3). C(a)                             &T2, I1\\
+    &(4). Q(a)                             &T2\\
+    &(5). (\forall x)(C(x) \to W(x) \land R(x)) &P\\
+    &(6). C(a) \to W(a) \land R(a)         &T5, US\\
+    &(7). W(a) \land R(a)                  &T3,6,I\\
+    &(8). R(a)                             &T7, I\\
+    &(9). Q(a) \land R(a)                  &T4, 8, I\\
+    (&10). (\exist x) (Q(x) \land R(x))    &T9, EG\\
+\end{align*}
+$$
