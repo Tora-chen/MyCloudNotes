@@ -1,6 +1,61 @@
 <!-- title: English -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+
+halt 词源同hold  使停止；立定  
+> She walked towards him and then halted.  
+> The trial was halted after the first week.
+
+contradiction n. 矛盾  
+> How can we resolve this apparent contradiction?  
+> 
+contra- 相反，相对  
+contract n. 合同  
+extract v. 提取  
+utilize v. 利用  
+utility n. 设施；效用；公用事业；  
+> SUV: Sport Utility Vehicle  
+
+Vehicle n. 车辆; 工具  
+vehicle: from French véhicule; véh: way;  
+plain adj. 平坦的；简单的；朴素的; 清楚明白的  
+plain text 纯文本  
+coursework n. 课程任务  
+assignment n. 作业  
+-sert 连接  
+insert v. 插入  
+ex- 向外  
+exert v. 努力，竭力；行使  
+> In order to be successful, he would have to exert himself.
+> The moon exerts a force on the earth that causes the tides.
+
+turn in 提交  
+pricey adj. 昂贵的  (informal)  
+stem n. 茎；干；血统； v. 堵住，阻止  
+> stem cell 干细胞  
+
+urge v. 力劝；强烈要求  
+> The report urged that all children be taught to swim.  
+
+urge sb. on 鼓励某人  
+> She could hear him urging her on as she ran past.  
+
+facility n. 设施；天赋  
+> She has a facility for languages.  
+
+admission n. 入场费；承认  
+ad + mit: to send  
+
+ident 同样的  
+identify v. 识别；鉴定  
+identical adj. 同一的  
+publisher n. 出版商  
+
+coordinate v. 协调  
+-ord- : order  
+
+---
+
 The water supply is unsafe.  
 supply n. 供给  
 vessel n. 船；容器；血管  
@@ -21,15 +76,12 @@ emerge v. 出现，浮现
 > -- The swimmer emerged from the lake. 
 > -- He emerged as a key figure in the campaign.  
 
-merge v. 合并  
 > His department will merge with mine. 
  
-eliminate  v. 消除  
 > Credit cards eliminate the need to carry a lot of cash.  
 
 vague *adj.*   
 > They had only a vague idea where the place was.   
->
 
 compose v. 组成  
 -pos- = put，放置  
@@ -58,8 +110,6 @@ It cost a mere 20 dollars.
 embrace v. 拥抱; 欣然接受  
 This was an opportunity that he would embrace.  
 solar panel 太阳能电池板  
-
-
 
 ---
 
@@ -216,7 +266,6 @@ determine 决定
 metric 公制  
 tropical 热带的  
 cargo 货物  
-crew 船员  
 consume 消费  
 fleet 舰队  
 warehouse 仓库  
