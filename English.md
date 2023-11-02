@@ -134,33 +134,38 @@ Current intensity 电流强度
 
 ---
 
-disclose  v. 揭露  
-what Your Doctor Won't Disclose  
-The police have disclosed that two officers are under internal investigation.  
-mere adj. 仅仅  
-The plane crashed mere minutes after take-off.  
-It cost a mere 20 dollars.  
+> What Your Doctor Won't Disclose.  
+
+> The police have disclosed that two officers are under internal investigation. 
+ 
+> The plane crashed mere minutes after take-off.  
+
+> It cost a mere 20 dollars.  
+
 embrace v. 拥抱; 欣然接受  
-This was an opportunity that he would embrace.  
+> This was an opportunity that he would embrace.  
+
 solar panel 太阳能电池板  
 
 ---
 
 minor n. 小调; 辅修科目; 未成年人; 次要的事物;
         adj. 较小的; 次要的;   
-minor scale 小调音阶  
-solemn adj.严肃的  
-Everybody looked vary solemn.  
-unity n.联合，统一  
-The design lacks unity.  
-设计缺乏统一性  
+> minor scale 小调音阶  
+
+> Everybody looked vary solemn.  
+
+> The design lacks unity.  
+> 设计缺乏统一性  
+
 emphasis n.强调  
-give an emphasis in English.  
-在英语中强调  
-The examples we will look at have quite different emphases.  
-我们将要看的例子有着不同的重点。  
-proceed v.继续  
-Work is proceeding slowly.  
+> give an emphasis in English.  
+> 在英语中强调  
+
+> The examples we will look at have quite different emphases.  
+> 我们将要看的例子有着不同的重点。 
+ 
+> Work is proceeding slowly.  
 
 ---
 
