@@ -1,6 +1,39 @@
 <!-- title: English -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+slip v. 滑倒  
+> I slipped on the ice.  
+> CAUTION! Slippery. 小心地滑  
+
+caution n. 警告  
+age-related adj. 与年龄有关的  
+certain adj. 确定的  
+plot n. 情节; 布局  
+concern v. 涉及；担心  
+> Don't interfere in what doesn't concern you.  
+> That's far more concerning. / 这更令人担忧。  
+
+involve v. 涉及；有关联  
+figure n. （尤指官方资料中的）数字  
+> By 2004, this figure had risen to 14 million.  
+
+novel n. 小说；adj. 新奇的  
+> a novel feature 新特征  
+
+Arkansas 阿肯色州  
+injury n. 伤害  
+manage v. 管理；设法做到  
+> managed to safely stop her car.  
+
+poisonous adj. 有毒的  
+threat n. 威胁  
+Terrified her out of her wits / 把她吓得魂飞魄散  
+
+annoy v. 使烦恼  
+> I'm sorry if I annoyed you.  
+
+
+---
 
 halt 词源同hold  使停止；立定  
 > She walked towards him and then halted.  
