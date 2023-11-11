@@ -1,6 +1,148 @@
 <!-- title: English -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+gear n. 挡  
+stuck adj. 卡住的 v. 粘贴  
+> shift a gear  
+> It's like you're always stuck in second gear.  
+
+first came to light 首次曝光  
+> The scandal first came to light in 2009.
+
+affordable adj.   
+vite 轻快  
+invite v. 邀请  
+
+documentary n. 纪录片  
+vast adj. 巨大的  
+fantasy n. & v. 幻想  
+> Deep♂Dark♂Fantasy
+
+absorption n. 吸收  
+tendency n. 倾向  
+explain v. 解释 
+fantasize v. 幻想  
+develop 患(病)
+
+incredible adj. 难以置信的  
+feat n. 功绩  
+innovation n. 创新  
+handy adj. 方便的  
+trap n. 陷阱  
+advantage n. 优势  
+consequence n. 结果  
+consequently 因此  
+nuance n. 细微差别  
+impartial adj. 公正的  
+due to 由于  
+crappy adj. 糟糕的  
+incentive n. 刺激  
+> Tax incentives to encourage savings.
+
+tactic n. 策略  
+> If I don't use this tactic, I'll get outcompeted by others who do, so, I have to do it.
+
+mechanism n. 机制  
+civilization n. 文明  
+
+capital n. 资本  
+capitalism n. 资本主义  
+> Next, let's look at the pros and cons of Capitalism.
+sacrifice v. 牺牲  
+> He sacrificed his life to save his daughter.  
+
+---
+
+illustration n. 插图  
+wander v. 漫步; 走神  
+> Try to not let your mind wander.
+
+indirect adj. 间接的  
+> He gave me an indirect answer.
+
+appropriate adj. 适当的；v. 拨款  
+ap- : 使  
+propri- : 自己
+> Jeans are not appropriate for a formal party.
+> 
+> He was accused of appropriating club funds.
+
+vary v. 差异，不同  
+variation n. 变化  
+> The samples vary in quality but are generally acceptable.
+
+sort n. 品种 v. 整理；（计）排序  
+> What sort of music do you like? —— Oh, all sorts.  
+> sorting the mail.
+
+resort n. 旅游胜地 v. 诉诸，寻求  
+lip 嘴唇  
+leap v. 跳跃  
+potential adj. 潜在的； n. 潜力；势能  
+> The new drug has enormous potential.  
+
+---
+
+[2023 7月四级听力](https://www.bilibili.com/video/BV1oP411X7gX/?spm_id_from=333.337.search-card.all.click&vd_source=c4325d8074718e07142903dcf8b9c4b0)
+
+mayor 市长  
+bit v. 咬  
+praise v. 赞扬  
+athlete 运动员  
+neck n. 脖子  
+journalist ジャーナリスト  
+curiosity n. 好奇心  
+> I have a curiosity about the world.  
+
+charge v. 指控  
+allegedly adv. 据称  
+allege v. 断言, 宣称  
+violate v. 违反   
+against prep. 反对  
+> A women was charged with allegedly violating a Rhode Island city law against feeding wild animals.
+> 一名女子被指控违反了罗德岛州禁止喂养野生动物的法律。
+
+blame v. 责备  
+rat n. 老鼠  
+prohibit v. 禁止  
+exhibit v. 展示  
+hibit : hold  
+
+> Nevertheless, while the woman's intention was to feed birds, it is clear that rats ware also benefiting.
+
+director n. 主管  
+administration n. 管理  
+eventually adv. 最终  
+take application for 为...接受申请
+> To prepare for eventually sending astronauts to Mars, NASA began taking applications Friday for four people to live for a year in Mars' Dune Alpha.
+
+martian n. 火星的  
+habitat n. 栖息地  
+paid adj. 有偿的  
+strict adj. 严格的  
+restricted adj. 受限制的  
+restrictive adj. 限制性的  
+experiment n. 实验  
+permanent adj. 永久的  
+resident n. 居民  
+-sid- : sit  
+applicant n. 申请人  
+participant n. 参与者  
+competent adj. 有能力的  
+resourceful adj. 足智多谋的  
+
+
+---
+
+weigh v. 称重; 有...重; 考虑，权衡  
+weight n. 重量;   
+> How much do you weigh?  
+> She weighs 50 kilos.  
+> You must weigh up the pros and cons.
+
+
+---
+
 slip v. 滑倒  
 > I slipped on the ice.  
 > CAUTION! Slippery. 小心地滑  
@@ -153,7 +295,7 @@ minor n. 小调; 辅修科目; 未成年人; 次要的事物;
         adj. 较小的; 次要的;   
 > minor scale 小调音阶  
 
-> Everybody looked vary solemn.  
+> Everybody looked very solemn.  
 
 > The design lacks unity.  
 > 设计缺乏统一性  
@@ -187,7 +329,8 @@ recycling bin
 ---
 
 [Small Habits that Make a Big Impact on Your Life | Official Trailer | MasterClass](https://youtu.be/Esw4p0C5u-g?si=C4ifs-qIY8PQI_b9)
-execute 执行  
+execute 执行；表现  
+perform 表现  
 consistent 始终如一的  
 reduce 减少  
 broader 更广泛的  
@@ -209,7 +352,10 @@ acumen 聪明
 beyond ……之外  
 He's done so in his country and beyond  
 affordable 负担得起的  
+> Our product are vary affordable.
+
 maternity 产假  
+clinically 临床上  
 clinics 诊所  
 convince 说服  
 spotlight 聚光灯  
@@ -456,7 +602,6 @@ back up 支持
 sterilization n. 绝育  
 induced abortion 人工流产. 
 accomplish v. 完成  
-restrictive adj. 限制性的  
 
 ___
 dedicate 把...奉献于  
@@ -499,6 +644,7 @@ students need to envision themselves as successful in life
 scripted 脚本化的  
 curriculum 课程  
 I don't think there's a single teacher candidate that said, "I want to be a teacher so I can help kids pass standardized tests."  
+constitute 构成  ;//
 constitution 宪法  
 ___
 adaptation 改编版；适应  
@@ -558,7 +704,6 @@ effectively 有效地
 expert 专家  
 regard 考虑  
 accountability 责任心  
-constitute 构成  
 aside 旁边  
 condition 条件，状况  
 developmental psychologic 发展心理学  
@@ -566,7 +711,7 @@ ignorance 愚昧，无知
 sink 下沉  
 fulfil 实现  
 the needs that the family fulfills  
-vary 差异，不同  
+vary v. 差异，不同  
 subordinate 下属的  
 consist 组成  
 widow 寡妇  
@@ -593,13 +738,14 @@ recognize 辨认出；承认，意识到
 civil matter 民事问题  
 indicate 表明，象征  
 urbanization 城市化  
+industry n. 工业; 产业; 行业;  
 industrialization 工业化  
+pre-industrial 前工业化  
 Historical studies have indicated that
 family structures has been less changed by urbanization and industrialization
 than was once supposed  
 历史研究表明，城市化和工业化对家庭结构的影响比人们曾经认为的要小  
 prevalent 盛行的  
-pre-industrial 前工业化  
 differ from 与...不同  
 perform 执行  
 institution 机构，团体  
@@ -608,7 +754,6 @@ recreation 娱乐
 capacity 能力  
 peer 同龄人  
 assume a role 发挥作用  
-consequently 因此  
 separating 分离的  
 ___
 deliver 推送  
@@ -754,15 +899,15 @@ century 世纪
 reno'vation 整修，翻修  
 extension 扩建  
 several 几个  
-数百年 several hundred years  
+> in the following several hundred years  
 在接下来的数百年  
-in the following several hundred years  
+
 led it into the scale we see today  
 palace 宫殿  
 temple  庙宇  
 古老的 ancient  
 trial 试验  
-The US government takes on Google in historic trial.
+> The US government takes on Google in historic trial.
 美国政府在历史性的审判中对谷歌提起诉讼。
 confidence 信心  
 sense 察觉到  
@@ -771,16 +916,14 @@ requires you to 要求你…
 distracted 分心的  
 wind up 以…收场  
 settle 平静，使安静下来  
-If you are tired or distracted, do not code. You'll only wind up redoing what you did. Instead, find a way to eliminate the distraction and settle your mind.  
+> If you are tired or distracted, do not code. You'll only wind up redoing what you did. Instead, find a way to eliminate the distraction and settle your mind.  
+
 host 主持人；主机  
-MDMA, aka “ecstasy” or “molly,” combined with therapy, was shown to produce a “clinically meaningful” improvement for almost 90% of treated patients with moderate and severe PTSD.  
-MDMA: 摇头丸  
-combined with 与…结合  
+> MDMA, aka “ecstasy” or “molly,” combined with therapy, was shown to produce a “clinically meaningful” improvement for almost 90% of treated patients with moderate and severe PTSD.  
+
 therapy 心理治疗  
 produce 引起  
 treat 治疗  
 patient adj.耐心; n.病人  
 moderate 中等的  
 severe 严重的  
-aka = also known as  
-clinically 临床上  
