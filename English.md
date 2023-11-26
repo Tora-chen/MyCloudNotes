@@ -1,6 +1,113 @@
 <!-- title: English -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+Fighting for the Certificates
+
+Students graduates from college and entering the real world often encounter a hostile employment environment. Jobs can be difficult to acquire, especially when there is a lot of competition. Some students try to get an edge on their peers by earning extra certifications; I believe this is an excellent idea.
+
+It can be difficult to differentiate oneself in a crowded job market. Employment can be scarce, especially during an economic downturn like the one we are currently experiencing. Anything that sets a new graduate apart from his or her peers is a welcome advantage, particularly if it's a skill or trade that is in high demand. 
+
+Of course, there is a danger in spreading oneself too thin. Specializing in a specific area of work is the reason college majors and minors were created. One must be careful not to ignore one's major of minor studies in pursuit of these certifications.
+
+degree inflation 学历贬值  
+spreading oneself too thin 过于分散精力  
+hostile adj. 不受欢迎的，敌意的  
+acquire v. 获得  
+peer 同龄人  
+get an edge 占据优势  
+extra adj. 额外的  
+scarce adj. 缺乏的  
+advantage 有利条件，优势  
+
+---
+
+Ant Tribe in Beijing
+
+Every year, more and more students graduate from college and enter the workforce. Unfortunately, not all of these graduates can find employment. These groups of unemployed graduates are sometimes referred to as "ant tribes".
+
+There are many reasons for this phenomenon. For one thing, the number of graduates far exceeds the number of available jobs. In addition, many of these graduates reject the jobs that are first offered to them because they are not satisfied with the salaries, benefits or other aspect of the job. These opportunities are lost after being initially spurned by graduates.
+
+I believe there are a few solutions to this problem. New graduates should change their expectations and accept jobs that don't pay as much at first. High salaries and good benefits don't come right away; rather, they must be earned through hard work and dedication to one's employer. New graduates can also improve their prospects to employment by earning certifications in specific fields after graduation.
+
+
+---
+
+cope with 应付  
+> How to cope with anxiety.  
+> 如何应对焦虑。
+
+dissociating 分离  
+defeat v. 击败  
+utterly adv. 完全地  
+> And you feel utterly defeated.  
+
+nauseous adj. 恶心的  
+> I feel nauseous.  
+
+uneasy adj. 不安的  
+scenario n. 情景  
+disorder 混乱  
+> anxiety disorder 焦虑症
+
+depression n. 抑郁  
+differentiate v. 区分  
+
+---
+
+phrase 短语  
+stimulation n. 刺激 激励作用  
+boredom n. 厌烦，无聊  
+
+occupy v. 占用  
+> Sleep occupies nearly a third of our lives.  
+
+intent adj. 专注的； n. 意图  
+
+distract 分散注意  
+distraction n. 娱乐，消遣，使人分心的事物  
+distracted 分心的  
+
+---
+
+deepen v. 加剧，恶化  
+lessen v. 减少  
+inconvenience n. 不便；v. 给...带来不便  
+> I hope that we haven't inconvenienced you.  
+
+recommend n. 建议 忠告  
+command v. 命令  
+commend v. 赞扬  
+remedy n. 处理方法  
+> There is no simple remedy for unemployment.
+
+---
+
+relatively adv. 相对地  
+> I found the test relatively easy.  
+
+exclusive adj. 独有的  
+> The hotel has exclusive access to the beach.  
+
+ingredient n. 成分，原料  
+in- 进入 gred- : grade  
+pit n. 坑  
+fragment n. 碎片  
+fraction n. 分数  
+suggest v. 暗示  
+direct adj. 直接的  
+> direct evidence 直接证据  
+
+consume v. 消耗，消费  
+test v. 验证  
+> To test that theory  
+
+remain v. 保持; 残留  
+lily n. 百合  
+indicate v. 表明  
+arrived in 抵达   
+
+---
+
 gear n. 挡  
 stuck adj. 卡住的 v. 粘贴  
 > shift a gear  
@@ -9,7 +116,6 @@ stuck adj. 卡住的 v. 粘贴
 first came to light 首次曝光  
 > The scandal first came to light in 2009.
 
-affordable adj.   
 vite 轻快  
 invite v. 邀请  
 
@@ -26,6 +132,7 @@ develop 患(病)
 
 incredible adj. 难以置信的  
 feat n. 功绩  
+renovation 整修，翻修  
 innovation n. 创新  
 handy adj. 方便的  
 trap n. 陷阱  
@@ -173,7 +280,6 @@ Terrified her out of her wits / 把她吓得魂飞魄散
 
 annoy v. 使烦恼  
 > I'm sorry if I annoyed you.  
-
 
 ---
 
@@ -340,7 +446,6 @@ outcome 结果
 atomic 原子的  
 symbolism 象征  
 iceberg 冰山  
-surface 表面  
 get your running shoes on 穿上你的跑鞋  
 ally 盟友  
 enemy 敌人  
@@ -450,7 +555,6 @@ determine 决定
 metric 公制  
 tropical 热带的  
 cargo 货物  
-consume 消费  
 fleet 舰队  
 warehouse 仓库  
 ware 制品，用品  
@@ -478,7 +582,6 @@ commodity 商品
 ___
 academic adj. 学术的  
 performance n. 表现  
-cope with 应付  
 for instance 例如  
 matter a great deal 非常重要  
 ultimate adj. 最终的  
@@ -617,7 +720,6 @@ consistent 一致的
 odd 反常的  
 moral 寓意  
 anxious 令人焦急的  
-distracting 分散注意  
 spouse 配偶  
 maintain focus  
 keep it up 坚持下去  
@@ -736,7 +838,6 @@ formation 组成
 civil 国民的  
 recognize 辨认出；承认，意识到  
 civil matter 民事问题  
-indicate 表明，象征  
 urbanization 城市化  
 industry n. 工业; 产业; 行业;  
 industrialization 工业化  
@@ -774,7 +875,6 @@ come by 获取，得到
 durian 榴莲  
 bamboo shoots 竹笋  
 premium 高端的，优质的  
-ingredient 成分，原料  
 make efforts to 努力...  
 尽管如此：even so  
 ___
@@ -836,7 +936,6 @@ classification 分类
 describe 描述  
 attitude 姿态，个人风格  
 discipline 纪律  
-phrase 短语  
 manual 手册  
 shelf 架子  
 punch 打孔  
@@ -896,7 +995,6 @@ ___
 保存完好的 will-preserved  
 始建于 was first built  
 century 世纪  
-reno'vation 整修，翻修  
 extension 扩建  
 several 几个  
 > in the following several hundred years  
@@ -913,12 +1011,10 @@ confidence 信心
 sense 察觉到  
 being able to sense your errors  
 requires you to 要求你…   
-distracted 分心的  
 wind up 以…收场  
 settle 平静，使安静下来  
 > If you are tired or distracted, do not code. You'll only wind up redoing what you did. Instead, find a way to eliminate the distraction and settle your mind.  
 
-host 主持人；主机  
 > MDMA, aka “ecstasy” or “molly,” combined with therapy, was shown to produce a “clinically meaningful” improvement for almost 90% of treated patients with moderate and severe PTSD.  
 
 therapy 心理治疗  
