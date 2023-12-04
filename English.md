@@ -1,6 +1,28 @@
 <!-- title: English -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+aging age的现在分词；变老  
+responsible 对...有责任的  
+> I'm responsible for the project.    
+> responsible for making people grow older.
+
+remain 保持，仍然是  
+> You have the right to remain silent and refuse to answer questions.  
+
+compile 编写，编纂  
+mention 提到，谈到  
+> Sorry, I won't mention it again.  
+
+positive 乐观的  
+practice 风俗，习惯  
+> It is his practice to read several books a week. 
+
+set out 开始  
+
+
+
+---
+
 Fighting for the Certificates
 
 Students graduates from college and entering the real world often encounter a hostile employment environment. Jobs can be difficult to acquire, especially when there is a lot of competition. Some students try to get an edge on their peers by earning extra certifications; I believe this is an excellent idea.
