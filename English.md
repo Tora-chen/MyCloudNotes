@@ -1,6 +1,41 @@
 <!-- title: English -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+
+specialist 专家  
+> I'm a specialist in English.  
+
+boot 靴子；后备箱  
+
+
+---
+
+sunk sink 的过去分词  
+sink 下沉；使沉没  
+in order to 为了  
+preserve 保存, 保护   
+保存完好的 will-preserved  
+marine 海洋的  
+habitats 栖息地  
+> Ships are often sunk in order to create underwater reefs perfect for scuba diving and preserving marine habitats.  
+> 沉船通常是为了创造适合潜水和保护海洋栖息地的水下珊瑚礁。  
+
+Turkish 土耳其的  
+authority 权威  
+hollow 空心的；挖空  
+hollowed-out 空心的  
+strip 除去，剥去  
+potentially 可能地  
+skeleton 骨架  
+attraction 吸引力  
+stretch 伸展  
+
+
+
+
+
+---
+
 aging age的现在分词；变老  
 responsible 对...有责任的  
 > I'm responsible for the project.    
@@ -589,7 +624,7 @@ plug-and-play monitor 即插即用显示器
 moisture 湿度  
 manually 手动地  
 grindable 可磨的  
-stretch 任务  
+stretch 任务?  
 schedule 日程  
 delivery n. 交付  
 route 路线  
@@ -751,7 +786,6 @@ nurture 培养
 standardized tests 标准化考试  
 colony 殖民地  
 colonize 殖民  
-preserve 保护  
 future generations 未来的一代  
 generational spacecraft 代际飞船  
 sustain 维持  
@@ -1014,7 +1048,6 @@ is located in 位于
 pearl 珍珠  
 ___
 郊区 suburb  
-保存完好的 will-preserved  
 始建于 was first built  
 century 世纪  
 extension 扩建  
