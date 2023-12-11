@@ -2,11 +2,87 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 
+buy v.相信  
+> Many man and women have long bought into the idea.  
+
+> A new study challenges that belief.  
+
+search for 寻找  
+throughout 遍及  
+> Researchers search for sex differences throughout the entire human brain.  
+
+categorize 将...分类  
+> Categorize brains as "male" or "female".  
+
+right in 就在  
+> right in the middle 就在正中  
+
+slight adj. 轻微的  
+briefly  简短地  
+> He had spoken to Emma only briefly.  
+
+
+---
+
+conclusion 结论  
+conclude 结束  
+absorb 吸收  
+absorption n. 吸收  
+> The cream is easily absorb into the skin.
+
+[contribute](#contribute)
+
+sea level 海平面  
+depth 深度，深处  
+gather 聚集；
+together 一起  
+voyage 航空，航海  
+voy: way  
+naval 海军的  
+probe 调查  
+volcanic outbreak 火山爆发  
+fossil fuel 化石燃料  
+emission 排放；射精  
+mission 使命，任务  
+era 年代  
+reside 居住在...  
+industrial era 工业化时代  
+cancel out 抵消，中和  
+reading 读物  
+
+---
+
+invest 投资；投入（时间、精力）  
+investigate 调查  
+persevere v. 坚持  
+severe adj. 艰巨的  
+setback 挫折  
+> How people persevere after setbacks
+
+conclude v. 结束  
+passive adj. 消极的，被动的  
+positive adj. 积极的  
+effect n. 影响; v. 实现，使发生  
+whereas （用以比较或对比两个事实）然而，但是，尽管  
+strive 努力  
+attribute 把...归因为  
+in particular 尤其  
+depress 降低  
+blame v. 责备  
+is to blame 是罪魁祸首  
+tough 艰苦的，艰难的  
+explain v. 解释  
+characteristic n. 特征  
+fixed 固定的  
+certain adj. 确定的  
+amount n. 数量  
+
+---
+
 specialist 专家  
 > I'm a specialist in English.  
 
 boot 靴子；后备箱  
-
 
 ---
 
@@ -30,10 +106,6 @@ skeleton 骨架
 attraction 吸引力  
 stretch 伸展  
 
-
-
-
-
 ---
 
 aging age的现在分词；变老  
@@ -48,13 +120,10 @@ compile 编写，编纂
 mention 提到，谈到  
 > Sorry, I won't mention it again.  
 
-positive 乐观的  
 practice 风俗，习惯  
 > It is his practice to read several books a week. 
 
 set out 开始  
-
-
 
 ---
 
@@ -75,6 +144,7 @@ get an edge 占据优势
 extra adj. 额外的  
 scarce adj. 缺乏的  
 advantage 有利条件，优势  
+advanced adj. 先进的，高级的
 
 ---
 
@@ -181,7 +251,6 @@ vast adj. 巨大的
 fantasy n. & v. 幻想  
 > Deep♂Dark♂Fantasy
 
-absorption n. 吸收  
 tendency n. 倾向  
 explain v. 解释 
 fantasize v. 幻想  
@@ -738,6 +807,9 @@ be projected to 预计
 project v. 预计  
 growth 增长  
 policies 政策  
+
+<a id='contribute'></a>
+
 contribute to 是……的原因之一  
 contribute 捐献，贡献  
 tribute 礼物  
@@ -917,7 +989,6 @@ deliver 推送
 straight 直的  
 hesitate 犹豫  
 reach out 主动联系  
-conclude v. 结束  
 The World Cup will conclude tomorrow.  
 tournament 锦标赛  
 authentication 身份验证  
@@ -976,7 +1047,6 @@ extensive 广泛的
 It's far too extensive and complex for the ... to survey.  
 survey 调查  
 comprehensive 综合性的  
-conclusion 结论  
 pre-requisite 先决条件  
 intrigued 好奇的  
 dire 急需  
