@@ -2,6 +2,38 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 
+pursue v. 追求  
+passion n. 热情  
+pursue one's passion 追求自己的梦想  
+chronically adv. 长期  
+consequence n. 后果  
+cognition 认知  
+be reduced to an arbitrary number of characters. 被限制为任意数量的字符。  
+period n. 时期  
+
+---
+
+jam 干扰  
+wireless 无线电  
+wire 电线  
+deserve v. 应该得到  
+> Any product that promises to protect your home deserves careful examination.  
+> 任何承诺保护您家的产品都值得仔细检查。
+
+potential adj. 潜在的  
+vulnerability n. 脆弱性  
+involve v. 涉及  
+bypass v. 绕过  
+statistics n. 统计  
+> According to statistics, 90% of the people are right-handed.  
+
+concern n. 担心，忧虑  
+altogether adv. 完全地  
+> One of the main theoretical home-security concerns is whether or not a given system is vulnerable to being blocked from working altogether.   
+> 一个主要的理论上的家庭安全问题是一个给定的系统是否容易被完全阻止工作。
+
+---
+
 buy v.相信  
 > Many man and women have long bought into the idea.  
 

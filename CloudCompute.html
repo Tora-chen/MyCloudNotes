@@ -2,7 +2,7 @@
     <html>
     <head>
         <meta charset="UTF-8">
-        <title>&#x4e91;&#x8ba1;&#x7b97;&#x5bfc;&#x8bba;</title>
+        <title>&#x8003;&#x8bd5;&#x4fe1;&#x606f;</title>
         <style>
 /* From extension vscode.github */
 /*---------------------------------------------------------------------------------------------
@@ -42,7 +42,133 @@
     <body class="vscode-body vscode-light">
         <!-- 云计算导论 -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<h1 id="云计算导论">云计算导论</h1>
+<h1> 云计算导论 </h1>
+<ul>
+<li><a href="#%E8%80%83%E8%AF%95%E4%BF%A1%E6%81%AF">考试信息</a></li>
+<li><a href="#%E6%8F%90%E7%BA%B2">提纲</a></li>
+<li><a href="#%E4%BA%91%E8%AE%A1%E7%AE%97%E6%A6%82%E5%BF%B5">云计算概念</a>
+<ul>
+<li><a href="#%E4%BA%91%E8%AE%A1%E7%AE%97%E7%9A%84%E5%85%B8%E5%9E%8B%E7%89%B9%E5%BE%81">云计算的典型特征</a></li>
+<li><a href="#%E4%BA%91%E8%AE%A1%E7%AE%97%E7%9A%84%E6%9C%8D%E5%8A%A1%E6%A8%A1%E5%9E%8B">云计算的服务模型</a></li>
+<li><a href="#%E5%85%AC%E6%9C%89%E4%BA%91%E5%92%8C%E7%A7%81%E6%9C%89%E4%BA%91">公有云和私有云</a></li>
+</ul>
+</li>
+<li><a href="#%E8%99%9A%E6%8B%9F%E5%8C%96">虚拟化</a>
+<ul>
+<li><a href="#%E8%99%9A%E6%8B%9F%E5%8C%96%E5%88%86%E7%B1%BB">虚拟化分类</a></li>
+<li><a href="#%E8%99%9A%E6%8B%9F%E6%9C%BA">虚拟机</a></li>
+</ul>
+</li>
+<li><a href="#%E5%88%86%E5%B8%83%E5%BC%8F%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F">分布式文件系统</a>
+<ul>
+<li><a href="#%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%9A%84%E7%89%B9%E7%82%B9">大数据的特点</a></li>
+<li><a href="#%E5%88%86%E5%B8%83%E5%BC%8F%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%85%B3%E9%94%AE%E9%97%AE%E9%A2%98">分布式文件系统的关键问题</a></li>
+<li><a href="#hdfs-%E6%9E%B6%E6%9E%84">HDFS 架构</a></li>
+<li><a href="#nosql%E6%95%B0%E6%8D%AE%E5%BA%93">NoSQL数据库</a>
+<ul>
+<li><a href="#%E5%9F%BA%E4%BA%8E%E6%95%B0%E6%8D%AE%E6%A8%A1%E5%9E%8B%E5%88%86%E7%B1%BB">基于数据模型分类：</a></li>
+<li><a href="#base-%E5%8E%9F%E5%88%99">BASE 原则</a></li>
+<li><a href="#google-bigtable">GOOGLE BIGTABLE</a></li>
+<li><a href="#map-reduce">MAP REDUCE</a></li>
+<li><a href="#%E6%96%87%E6%A1%A3%E8%AF%8D%E9%A2%91%E7%BB%9F%E8%AE%A1%E5%B9%B6%E8%A1%8C%E5%A4%84%E7%90%86%E4%BC%AA%E4%BB%A3%E7%A0%81">文档词频统计并行处理伪代码</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="考试信息">考试信息</h2>
+<p>考试时间：</p>
+<blockquote>
+<p>12 月 26 日<br>
+15:20 - 16:55<br>
+90 分钟</p>
+</blockquote>
+<p>考试地点：</p>
+<blockquote>
+<p>浩学楼 401, 402</p>
+</blockquote>
+<p>考试形式：</p>
+<blockquote>
+<p>开卷。</p>
+</blockquote>
+<p>题型：</p>
+<blockquote>
+<p>单选题、多选题、判断题、问答题</p>
+</blockquote>
+<h2 id="提纲">提纲</h2>
+<ul>
+<li>云计算概念</li>
+<li>虚拟化</li>
+<li>分布式文件系统</li>
+<li>NoSQL 数据库</li>
+<li>MapReduce 并行计算框架</li>
+</ul>
+<h2 id="云计算概念">云计算概念</h2>
+<h3 id="云计算的典型特征">云计算的典型特征</h3>
+<ul>
+<li>规模经济驱动的资源集中共享</li>
+<li>资源虚拟化</li>
+<li>系统动态可伸缩</li>
+<li>面向服务的商业特性</li>
+</ul>
+<h3 id="云计算的服务模型">云计算的服务模型</h3>
+<ul>
+<li>IaaS(基础设施即服务)</li>
+<li>PaaS(平台即服务)</li>
+<li>SaaS(软件即服务)</li>
+</ul>
+<h3 id="公有云和私有云">公有云和私有云</h3>
+<h2 id="虚拟化">虚拟化</h2>
+<p>虚拟化是资源的逻辑表示，它不受物理限制的约束。</p>
+<ul>
+<li>虚拟化的对象是各种各样的资源</li>
+<li>虚拟化的目的是提高资源的利用率</li>
+<li>虚拟化的手段是将资源的逻辑表示与物理实现分离</li>
+</ul>
+<h3 id="虚拟化分类">虚拟化分类</h3>
+<ul>
+<li>应用虚拟化</li>
+<li>网络虚拟化</li>
+<li>存储虚拟化</li>
+<li>系统虚拟化</li>
+<li>桌面虚拟化</li>
+</ul>
+<h3 id="虚拟机">虚拟机</h3>
+<p>虚拟机指通过虚拟化软件套件模拟的、具有完整硬件功能的、运行在一个隔离环境中的逻辑计算机系统。</p>
+<h2 id="分布式文件系统">分布式文件系统</h2>
+<h3 id="大数据的特点">大数据的特点</h3>
+<ul>
+<li>数据量大</li>
+<li>数据类型繁多</li>
+<li>处理速度快</li>
+<li>数据价值密度低，商业价值高</li>
+</ul>
+<p>分布式文件系统是指文件系统管理的物理存储资源不一定直接连接在本地计算机上，而是通过计算机网络与计算机相连。从内部实现来看，分布式文件系统不再和普通文件系统一样，将文件的元数据和数据存储在本地，而是将元数据和数据分别存储在不同的服务器上，通过网络进行通信。</p>
+<h3 id="分布式文件系统的关键问题">分布式文件系统的关键问题</h3>
+<ul>
+<li>命名空间</li>
+<li>元数据管理</li>
+<li>数据分布</li>
+<li>数据一致性</li>
+</ul>
+<h3 id="hdfs-架构">HDFS 架构</h3>
+<h3 id="nosql数据库">NoSQL数据库</h3>
+<p>NoSQL 数据库是指非关系型的数据库，NoSQL 数据库不需要遵循 SQL 标准，也不需要关系型数据库的一些特性，比如表结构、关系、事务等。</p>
+<h4 id="基于数据模型分类">基于数据模型分类：</h4>
+<ul>
+<li>键值数据库</li>
+<li>列存储数据库</li>
+<li>文档数据库</li>
+<li>图数据库</li>
+<li>对象数据库</li>
+</ul>
+<h4 id="base-原则">BASE 原则</h4>
+<p>BASE 即 Basically Available(基本可用)、Soft state(软状态)、Eventually consistent(最终一致性)。BASE 原则是 NoSQL 数据库的核心理念，是对 CAP 原则的一个补充。</p>
+<h4 id="google-bigtable">GOOGLE BIGTABLE</h4>
+<p>Google Bigtable 是一个高性能的、高可扩展的、高可用的分布式多维排序的 Map 结构存储系统。Bigtable 以列簇为单位组织数据，每个列簇包含多个列，每个列包含多个版本。Bigtable 以行键、列簇、列、时间戳为索引，每个单元格中存储的是一个字节流。</p>
+<h4 id="map-reduce">MAP REDUCE</h4>
+<p>MapReduce 是一个分布式并行计算框架，它将计算任务分解为两个阶段：Map 阶段和 Reduce 阶段。MapReduce 框架的核心思想是将计算任务分解为 Map 阶段和 Reduce 阶段，Map 阶段将计算任务分解为多个子任务并行执行，Reduce 阶段将多个子任务的结果进行合并。MapReduce 框架的优点是简单易用、高可靠性、高可扩展性、高容错性、高性能。</p>
+<h4 id="文档词频统计并行处理伪代码">文档词频统计并行处理伪代码</h4>
 
         
         
