@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <title>&#x4f5c;&#x4e1a; 2</title>
+        <style>
+/* From extension vscode.github */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+.vscode-dark img[src$=\#gh-light-mode-only],
+.vscode-light img[src$=\#gh-dark-mode-only] {
+	display: none;
+}
+
+</style>
+        
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+<style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
+                font-size: 14px;
+                line-height: 1.6;
+            }
+        </style>
+        <style>
+.task-list-item {
+    list-style-type: none;
+}
+
+.task-list-item-checkbox {
+    margin-left: -20px;
+    vertical-align: middle;
+    pointer-events: none;
+}
+</style>
+        
+    </head>
+    <body class="vscode-body vscode-light">
+        <h1 id="作业-2">作业 2</h1>
+<blockquote>
+<p><em>计22-1 22101020124 陈志虎</em></p>
+</blockquote>
+<p>&lt;19&gt;</p>
+<ol>
+<li>选择两个大质数p和g，其中g是p的原根。</li>
+<li>甲方选择一个随机数a作为私钥，并计算A = g^a mod p。</li>
+<li>乙方选择一个随机数b作为私钥，并计算B = g^b mod p。</li>
+<li>甲方将A作为公钥发送给乙方，乙方将B作为公钥发送给甲方。</li>
+<li>甲方计算K = B^a mod p，乙方计算K = A^b mod p。</li>
+<li>甲方和乙方现在都拥有相同的密钥K，可以使用该密钥进行加密和解密。</li>
+</ol>
+<p>&lt;20&gt; DES(Data Encryption Standard) 的中文名称是“数据加密标准”，其基本思想基于替换和置换。</p>
+<p>&lt;27&gt; MD5 以512位分组处理输入的信息，输出128位的散列值；SHA-1 以512位分组处理输入的信息，输出160位的散列值。</p>
+<p>&lt;29&gt; 基于RSA数字签名的过程如下：</p>
+<ol>
+<li>Alice使用哈希函数对明文进行哈希，得到消息摘要。</li>
+<li>Alice使用自己的私钥对消息摘要进行加密，生成数字签名。</li>
+<li>Alice使用对称加密算法对明文进行加密，使用Bob的公钥加密对称密钥，将密文和加密后的对称密钥发送给Bob。</li>
+<li>Bob使用自己的私钥解密收到的对称密钥，使用对称密钥解密收到的密文，得到明文和数字签名。</li>
+<li>Bob使用Alice的公钥对数字签名进行解密，得到消息摘要。</li>
+<li>Bob使用哈希函数对明文进行哈希，得到消息摘要。</li>
+<li>Bob比较步骤5和步骤6得到的消息摘要是否相同，如果相同，则验证成功，说明明文确实是由Alice发出的。</li>
+</ol>
+<p>&lt;30&gt; DSS(Digital Signature Standard)中文名称是数字签名标准。</p>
+
+        
+        
+    </body>
+    </html>
